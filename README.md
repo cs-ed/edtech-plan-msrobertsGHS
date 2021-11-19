@@ -72,3 +72,14 @@ How will the technology help *all* students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
 evolving course contexts.
+
+### Sources
+
+https://www.azusa.org/site/handlers/filedownload.ashx?moduleinstanceid=2064&dataid=2895&FileName=2020_School_Accountability_Report_Card_Gladstone_High_School_20210126.pdf
+
+https://apstudents.collegeboard.org/courses/ap-computer-science-principles
+
+https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-overview.pdf?course=ap-computer-science-principles
+
+https://drive.google.com/file/d/1I0ETv1uhNfpNwMnXyuKPJTI6ZGwFogeG/view?usp=sharing
+
