@@ -96,3 +96,5 @@ https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learni
 https://codeburst.io/why-you-should-start-using-github-right-now-e817d213c6ff
 
 https://www.loom.com/education
+
+https://hapara.com/highlights/
