@@ -94,3 +94,5 @@ https://slack.com/features
 https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-for-your-schoolwork/about-github-education-for-students
 
 https://codeburst.io/why-you-should-start-using-github-right-now-e817d213c6ff
+
+https://www.loom.com/education
