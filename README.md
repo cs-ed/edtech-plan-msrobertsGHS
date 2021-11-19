@@ -1,13 +1,23 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5929399&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+My educational technology plan is to prepare, plan, and implement the new AP Computer Science Principles course at Gladstone High School in Covina.
 
 ## Context
 
+My educational technology plan is to prepare, plan, and implement the new AP Computer Science Principles course at Gladstone High School in Covina.
+
 ### Course
 
-Describe your course including the name, description, and grade level
+AP Computer Science Principles
+
+“AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. They incorporate abstraction into programs and use data to discover new knowledge. Students also explain how computing innovations and computing systems—including the internet—work, explore their potential impacts, and contribute to a computing culture that is collaborative and ethical.”  - College Board 
+
+Prior computer science experience is not required to take this course.
+
+This course will meet the “g” of the A-G requirement.
+
+Prerequisite:  Junior/Senior standing and a grade of “C” or better in Integrated II
 
 ### Situation
 
