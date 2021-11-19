@@ -90,3 +90,5 @@ https://edu.google.com/intl/ALL_us/products/workspace-for-education/
 https://www.aeries.com/
 
 https://slack.com/features
+
+https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-for-your-schoolwork/about-github-education-for-students
