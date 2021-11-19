@@ -13,6 +13,12 @@ AP Computer Science Principles
 
 “AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. They incorporate abstraction into programs and use data to discover new knowledge. Students also explain how computing innovations and computing systems—including the internet—work, explore their potential impacts, and contribute to a computing culture that is collaborative and ethical.”  - College Board 
 
+or (couldn’t decide)
+
+“This course introduces students to the foundational concepts of computer science and explores the impact computing and technology have on our society.
+
+With a unique focus on creative problem solving and real-world applications, the AP Computer Science Principles course gives students the opportunity to explore several important topics of computing using their own ideas and creativity, use the power of computing to create artifacts of personal value, and develop an interest in computer science that will foster further endeavors in the field.”  - CodeHS Syllabus
+
 Prior computer science experience is not required to take this course.
 
 This course will meet the “g” of the A-G requirement.
@@ -51,9 +57,48 @@ Although there is an Apple computer lab on campus that was purchased to support 
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
+All software requires a secure and reliable internet connection:
+
+CodeHS.com (Teacher and Students)
+CodeHS is recognized by the College Board and is an endorsed provider of curriculum and professional development for AP CSP.  This will afford my school access to the pre-approved syllabus and professional development.  Code HS will serve as main platform for the course.  I would request my district purchase the CodeHS Pro upgrade to provide all the tools, resources and support needed to run a high quality computer science program.  The AP Computer Science Principles course includes:
+
+Lesson Plans
+Videos & Slides
+Exercises
+Projects
+Comprehensive Assessments
+Examples
+Formative Assessments
+Cheat Detection Tools
+Gradebook
+Progress Monitoring
+
+In addition, students will access the online IDE to write, run & debug code in a web-based IDE on CodeHS.  
+
+Google Workspace for Education Fundamentals with Teaching and Learning Upgrade
+(Teacher and Students)
+Students will use Google Apps such as Gmail, Classroom, Docs, Slides, Forms, and Drive to collaborate and communicate throughout the course.  
+
+Google Classroom LMS (Teacher and Students)
+Our school uses Google Classroom so it would be necessary to include agenda’s, syllabi, and course announcements on this site.  It is integrated with Google Apps, Aeries, and CodeHS.
+
+Aeries SIS (Teacher and Students)
+The SIS platform is used  for district gradebooks, attendance, student contact information, and parent communication.  The platform provides mobile Apps, analytics, parent reports, and cloud backs of teacher gradebooks.  Students and parents access Aeries to check their students progress at their convenience.  
+
+Slack (Teacher and Students)
+A communication tool for students and teacher to collaborate to be more productive.
+
+GitHub Education (Teacher and Students)
+I would like to incorporate GitHub for my course projects.  Students would then be able to collaborate with others and build a portfolio to showcase real-world experience in the future.  
+
+Hapara (Teacher and Students)
+Hapara helps teachers monitor students working in real-time and encourages digital citizenship.  It provides ethical Chromebook monitoring with Hapara Highlights which encourages students to stay on task and take ownership of their learning.  Teachers can monitor their students open tabs during instructional hours, see students current screens, guide browsers, and send private messages to students who are off task.
+
+Microsoft Office 365, GoodNotes, Acrobat Pro DC (Teacher Only)
+Used for daily lesson planning and note taking guides.
+
+Loom for Education (Teacher Only)
+The video recording and editing platform can be downloaded as a desktop app or as a Chrome extension.  Lessons can be up to 45 minutes have many advanced features that are free for educators.  They can also be integrated into Google Classroom.
 
 ### Hardware Specifications
 
