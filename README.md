@@ -102,8 +102,16 @@ The video recording and editing platform can be downloaded as a desktop app or a
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+The classroom is outfitted with a cart of 38 Dell 3100 2-in-1 Education Chromebooks with the following specs:
+•	Processor: Intel Celeron N4020 (Dual Core, up to 2.8GHz, 4M Cache, 6W)
+•	Display: 11.6" HD, 16:9 Touch, Camera & Microphone
+•	Memory: 4GB 2400MHz 
+•	Hard Drive: 32GB eMMC Hard Drive
+•	Ports: 2 USB 3.1, 2 USB Type-C, 1 Micro SD Memory Card Reader, 1 Headphone/Microphone Combo Jack
+•	Battery: 42WHr Battery, up to 10 hours
+•	Wireless: Intel Dual Band Wireless AC 9560 (802.11ac) 2x2 + Bluetooth 5.0
+
+
 
 ### Application
 
