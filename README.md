@@ -153,3 +153,5 @@ https://www.loom.com/education
 https://hapara.com/highlights/
 
 https://codehs.com/uploads/f40041ef134075e10ee0106a0861abe1
+
+https://dl.dell.com/topicspdf/latitude-15-5510-laptop_owners-manual2_en-us.pdf
