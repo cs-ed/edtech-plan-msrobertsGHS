@@ -111,7 +111,7 @@ The classroom is outfitted with a cart of 38 Dell 3100 2-in-1 Education Chromebo
 •	Battery: 42WHr Battery, up to 10 hours
 •	Wireless: Intel Dual Band Wireless AC 9560 (802.11ac) 2x2 + Bluetooth 5.0
 
-The teacher is was recently provided a Dell Latitude 5510 with the following specs: 
+The teacher was recently provided a Dell Latitude 5510 with the following specs: 
 •	Processor: 10th Generation Intel Core i5-10210U (Dual Core, up to 4.2GHz, 6MB Cache, 15W)
 •	Integrated Graphics: Intel UHD Graphics (shared system memory), AMD Radeon RX640 (2GB)
 •	Operating System: Windows 10 Professional (62-bit)
@@ -123,22 +123,36 @@ The teacher is was recently provided a Dell Latitude 5510 with the following spe
 •	Battery: 51 Whr, 11.40 VDC, operating time varies depending on operating conditions, charging time 4 hours when computer is off
 •	Display: 15.5’’ Full HD, WLED, no touch option 
 
-The classroom is also outfitted with a Dell Docking Station with the following ports:
-1. USB-C 3.1 Gen 2 | 2. USB-A 3.1 Gen 1 with PowerShare | 3. DisplayPort 1.4 | 4. HDMI 2.0b | 5. USB-C Multifunction DisplayPort | 6. Dual USB-A 3.1 Gen 1 | 7. Gigabit Ethernet RJ45 | 8. Power In
-
-Additional instructional tech equipment in the classroom:
+Peripherals
+Have
+•	HP LaserJet Pro M201dw Laser Printer 
 •	ELMO Document Camera TT-12W Interactive Document Camera 3.4MP 12x Optical Zoom 1080 HDMI
-•	Epson PowerLite LCD Projector X49, 4:3 – 1024x768.  The project is dim, aging and needs replacement.
-•	HP LaserJet Pro M201dw Laser Printer – for teacher use
+•	Epson PowerLite LCD Projector X49, 4:3 – 1024x768
+•	Dell Docking Station - WD19S 180W
 
+Need
+•	Dell Wireless Mouse WM126 – 36 units
+•	JLab Audio Studio Pro Over Ear Wired Headphones – 36 units
+•	Dell Premier Multi-Device Wireless Keyboard and Mouse – KM7321W – 1 unit
+•	Dell Docking Station Mounting Kit – MK15 – 1 unit
+•	Dell Dual Monitor Stand – MDS19 – 1 unit
+•	Dell 24 inch P2419H Flat Panel Monitor – 2 units
+•	Dell Multi-Device Wireless Keyboard and Mouse Combo - KM7120W – 1 unit
+•	Epson PowerLite 1288 Office Projector - Projector
 
-Requests:
-Dell Wireless Mouse WM126 – 36 units
-JLab Audio Studio Pro Over Ear Wired Headphones – 36 units
-Dell Premier Multi-Device Wireless Keyboard and Mouse – KM7321W – 1 unit
-Dell UltraSharp 27 4k USB-C Monitor – U2720Q – 1 unit
-Dell Docking Station Mounting Kit – MK15 – 1 unit
+Furniture
+Have
+•	36 student desks
+•	36 student chairs
 
+Need
+•	FlexiSpot Vici EC9 - Sit/standing desk - rectangular – black (for instructor set-up)
+
+Constraints
+•	Slow, limited or sometimes no Wi-Fi on campus
+•	Slow, limited or no Wi-Fi in student’s homes for assignments
+
+Teachers and students are connected to Wi-Fi access points throughout the school site through secure teacher and student networks.  We do have a mobile network; however, teachers and students are not given access.
 
 ### Application
 
@@ -182,3 +196,5 @@ https://hapara.com/highlights/
 https://codehs.com/uploads/f40041ef134075e10ee0106a0861abe1
 
 https://dl.dell.com/topicspdf/latitude-15-5510-laptop_owners-manual2_en-us.pdf
+
+https://www.dell.com/en-us
