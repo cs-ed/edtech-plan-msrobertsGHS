@@ -123,7 +123,21 @@ The teacher is was recently provided a Dell Latitude 5510 with the following spe
 •	Battery: 51 Whr, 11.40 VDC, operating time varies depending on operating conditions, charging time 4 hours when computer is off
 •	Display: 15.5’’ Full HD, WLED, no touch option 
 
+The classroom is also outfitted with a Dell Docking Station with the following ports:
+1. USB-C 3.1 Gen 2 | 2. USB-A 3.1 Gen 1 with PowerShare | 3. DisplayPort 1.4 | 4. HDMI 2.0b | 5. USB-C Multifunction DisplayPort | 6. Dual USB-A 3.1 Gen 1 | 7. Gigabit Ethernet RJ45 | 8. Power In
 
+Additional instructional tech equipment in the classroom:
+•	ELMO Document Camera TT-12W Interactive Document Camera 3.4MP 12x Optical Zoom 1080 HDMI
+•	Epson PowerLite LCD Projector X49, 4:3 – 1024x768.  The project is dim, aging and needs replacement.
+•	HP LaserJet Pro M201dw Laser Printer – for teacher use
+
+
+Requests:
+Dell Wireless Mouse WM126 – 36 units
+JLab Audio Studio Pro Over Ear Wired Headphones – 36 units
+Dell Premier Multi-Device Wireless Keyboard and Mouse – KM7321W – 1 unit
+Dell UltraSharp 27 4k USB-C Monitor – U2720Q – 1 unit
+Dell Docking Station Mounting Kit – MK15 – 1 unit
 
 
 ### Application
