@@ -103,13 +103,26 @@ The video recording and editing platform can be downloaded as a desktop app or a
 ### Hardware Specifications
 
 The classroom is outfitted with a cart of 38 Dell 3100 2-in-1 Education Chromebooks with the following specs:
-•	Processor: Intel Celeron N4020 (Dual Core, up to 2.8GHz, 4M Cache, 6W)
+•	Processor: Intel Celeron N4020 (Dual Core, up to 2.8GHz, 4MB Cache, 6W)
 •	Display: 11.6" HD, 16:9 Touch, Camera & Microphone
 •	Memory: 4GB 2400MHz 
 •	Hard Drive: 32GB eMMC Hard Drive
 •	Ports: 2 USB 3.1, 2 USB Type-C, 1 Micro SD Memory Card Reader, 1 Headphone/Microphone Combo Jack
 •	Battery: 42WHr Battery, up to 10 hours
 •	Wireless: Intel Dual Band Wireless AC 9560 (802.11ac) 2x2 + Bluetooth 5.0
+
+The teacher is was recently provided a Dell Latitude 5510 with the following specs: 
+•	Processor: 10th Generation Intel Core i5-10210U (Dual Core, up to 4.2GHz, 6MB Cache, 15W)
+•	Integrated Graphics: Intel UHD Graphics (shared system memory), AMD Radeon RX640 (2GB)
+•	Operating System: Windows 10 Professional (62-bit)
+•	Memory: 32 GB
+•	Ports: Network RJ-45 port, 2 USB 3.2 Gen1 Type-A, 1 USB 3.2 Type-A with PowerShare port, 1 USB 3.2 Gen2 Type-C with DisplayPort Alt Mode/Thunderbolt 3, Headphone/Microphone Combo Jack, 1 HDMI 1.4b port, microSD card slot, 1 uSIM card slot
+•	Camera: RGB, HD Fixed Focus (1280 x 720)
+•	Ethernet: Intel Ethernet Connection I219V, transfer rate 10/100/1000 Mbps
+•	Wireless Module: Intel Wi-Fi AX201, up to 2.4 Gbps
+•	Battery: 51 Whr, 11.40 VDC, operating time varies depending on operating conditions, charging time 4 hours when computer is off
+•	Display: 15.5’’ Full HD, WLED, no touch option 
+
 
 
 
