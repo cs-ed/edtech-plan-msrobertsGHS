@@ -155,10 +155,42 @@ Constraints
 Teachers and students are connected to Wi-Fi access points throughout the school site through secure teacher and student networks.  We do have a mobile network; however, teachers and students are not given access.
 
 ### Application
+Curriculum
+The new course, AP Computer Science Principles, at Gladstone High School will use the CodeHS curriculum for the following reasons:
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+•	It is a College Board endorsed provider of AP Computer Science Principles curriculum and thus meets the course audit requirements.
+•	Implementing a new course with a complete curriculum with embedded professional development from CodeHS would be beneficial for the teacher and students.
+•	By choosing the AP Computer Science Principles in Python, the process of getting the course approved for next year will be expedited.
+•	The instructor has experience working with CodeHS from the computer science course work while attaining the computer science credential authorization.  She found it engaging, user-friendly, and the online IDE allows for students to write, run, & debug code.
+•	The AP Computer Science Principles in Python course is 100% aligned to the 2020 standards (332 standards).
+•	CodeHS provides free Digital Textbooks for students as a supplementary resource for the teacher and students.
+
+Overview
+At Gladstone High School, AP Computer Science Principles uses an integrated learning approach.  Students will build their knowledge and understanding through actively participating in a variety of activities and projects.  The five big ideas of the course are integrated throughout the year with each big idea solidifying as the year progresses.
+
+Students will engage in curriculum that is focused on creative problem-solving and real-world applications.  In addition, students will be able to explore topics of personal interest, community problems, and current events.  Student-initiated explorations are more valuable, enjoyable, and robust. *
+
+Learning Environment
+Videos & Slides – Students learn new content through short video tutorials and are provided with guided note-templates.  Tutorials cover programming topics and concepts in the upcoming lesson.  The blended classroom approach of web-based and physical activities allows for students to engage in in-person collaborative exercises with peers.  By doing so the teacher will be able to leverage time in the classroom and give more focused 1-on-1 attention to students.
+
+
+Exercises – Students will engage in exercises that allow students to design and build programs based on new concepts.  By engaging in written programming exercises students will
+
+
+Projects – Students will be given longer, open-ended labs and projects to advance students’ programming skills.  In addition, students will work on collaborative creation projects and research projects.
+
+
+Assessment – Students will have formative quizzes after video tutorials that will provide the instructor with feedback to guide the pace of the class.  The quizzes will test essential knowledge to pass the AP exam.  In addition, each unit includes a practice AP multiple-choice exam to assess students understand of the concepts in the unit and it provides immediate feedback.
+
+Free Response Exercises - 
+
+The AP Create Performance Task – students will gain the skills necessary to complete this portion of the AP exam in class.  Students will complete practice performance tasks in each unit throughout the course and create their own digital artifacts.
+
+
+Programming Environment
+Students will write, run & debug code in the browser using the CodeHS editor.  The programming language used in this course is Python.  Students may have some familiarity with Python in the future because the district is implementing a Python-based robotics program in the elementary schools.
+
+
 
 ### Impacts
 
