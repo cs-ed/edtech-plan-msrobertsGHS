@@ -232,3 +232,5 @@ https://dl.dell.com/topicspdf/latitude-15-5510-laptop_owners-manual2_en-us.pdf
 https://www.dell.com/en-us
 
 https://codehs.com/standards/framework/APCSP20/course/8066
+
+https://nurtem.com/why-python-is-better-than-other-languages/
