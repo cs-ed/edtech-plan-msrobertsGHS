@@ -198,3 +198,5 @@ https://codehs.com/uploads/f40041ef134075e10ee0106a0861abe1
 https://dl.dell.com/topicspdf/latitude-15-5510-laptop_owners-manual2_en-us.pdf
 
 https://www.dell.com/en-us
+
+https://codehs.com/standards/framework/APCSP20/course/8066
