@@ -155,6 +155,7 @@ Constraints
 Teachers and students are connected to Wi-Fi access points throughout the school site through secure teacher and student networks.  We do have a mobile network; however, teachers and students are not given access.
 
 ### Application
+
 Curriculum
 The new course, AP Computer Science Principles, at Gladstone High School will use the CodeHS curriculum for the following reasons:
 
@@ -177,9 +178,9 @@ Videos are streamed on CodeHS, teacher provides printed copies of the note-takin
 
 Peer Collaboration and Pair Programming – During collaborative portions of the course, students will work in pairs or groups on exercises, examples, and projects.  This effective pedagogical tool does need to be explicitly taught to students as they learn how to work through conflicting perspectives, varying skill sets, and personalities.  Peer collaboration and pair programming naturally create the environment for students to seek out feedback from one another.  Pair programming is distinct in that it is a pedagogy where the partners work together (as driver and navigator) on one computer while taking on different roles to complete the task.  This effective strategy allows students to give and receive feedback from one another while it is also increasing interest and engagement.
 
-Exercises – Students will engage in exercises that allow students to design and build programs based on new concepts.  Students submit exercises through CodeHS.  Exercises are self-graded, and scores are stored in the gradebook which is imported to Aeries.
+Exercises – Students will engage in exercises that allow students to design and build programs based on new concepts.  Students submit exercises through CodeHS.  
 
-Examples – Students are given program examples allow them to explore how the code works in the IDE
+Examples – Students are given program examples allow them to explore how the code works in the IDE.  The examples scaffold the skills/concepts being taught.  Learning to program is a difficult and complex skill.  As students are learning to program, they need more than open-ended tasks because they lack the skills.  Therefore, students will be guided through selected examples of coded solutions before they begin writing their own programs.  This approach makes reduces the cognitive load as students are learning to code.  Effective methods for scaffolding examples for/with students are code reading, worked examples, live coding, Use-Modify-Create, and PRIMM.  This course will use a combination of these scaffolding techniques.  
 
 Projects – Students will be given longer, open-ended labs and projects to advance students’ programming skills.  In addition, students will work on collaborative creation projects and research projects.  Projects of choice are a more authentic form of assessment and engage students’ creativity & motivation.  Code reviews and project showcases will be used to allow students to share their work with the class.  Code Reviews and Project Showcases have been shown to increase student engagement, motivation, and creativity.  It also holds students accountable to for their work.
 
@@ -190,7 +191,6 @@ The AP Create Performance Task – students will gain the skills necessary to co
 
 Programming Environment
 Python IDE - Students will write, run & debug code in the browser using the CodeHS editor.  The programming language used in this course is Python.  Students may have some familiarity with Python in the future because the district is implementing a Python-based robotics program in the elementary schools.  Programming will be taught early in the course so that students will be able to explore much of the course through computational thinking practices.
-
 
 ### Impacts
 
