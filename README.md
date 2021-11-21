@@ -164,32 +164,33 @@ The new course, AP Computer Science Principles, at Gladstone High School will us
 •	The instructor has experience working with CodeHS from the computer science course work while attaining the computer science credential authorization.  She found it engaging, user-friendly, and the online IDE allows for students to write, run, & debug code.
 •	The AP Computer Science Principles in Python course is 100% aligned to the 2020 standards (332 standards).
 •	CodeHS provides free Digital Textbooks for students as a supplementary resource for the teacher and students.
+•	CodeHS pathways are aligned to or support the Next Generation Science Standards & Common Core Mathematics Standards.  Hopefully in the future our district can implement a 6-12 computer science pathway.
 
 Overview
-At Gladstone High School, AP Computer Science Principles uses an integrated learning approach.  Students will build their knowledge and understanding through actively participating in a variety of activities and projects.  The five big ideas of the course are integrated throughout the year with each big idea solidifying as the year progresses.
+At Gladstone High School, AP Computer Science Principles uses an integrated learning approach like the math courses at our site.  Students will build their knowledge and understanding through actively participating in a variety of activities and exercises.  The five big ideas of the course are integrated throughout the year with each big idea solidifying as the year progresses.  In addition, the six computation thinking practices are embedded throughout the lessons and coursework.  Assessments will build on and spiral content.
 
 Students will engage in curriculum that is focused on creative problem-solving and real-world applications.  In addition, students will be able to explore topics of personal interest, community problems, and current events.  Student-initiated explorations are more valuable, enjoyable, and robust. *
 
 Learning Environment
-Videos & Slides – Students learn new content through short video tutorials and are provided with guided note-templates.  Tutorials cover programming topics and concepts in the upcoming lesson.  The blended classroom approach of web-based and physical activities allows for students to engage in in-person collaborative exercises with peers.  By doing so the teacher will be able to leverage time in the classroom and give more focused 1-on-1 attention to students.
+Videos & Slides – Students learn new content through short video tutorials and are provided with guided note-templates.  Tutorials cover programming topics and concepts in the upcoming lesson.  The blended classroom approach of web-based and physical activities allows for students to engage in in-person collaborative exercises with peers.  By doing so the teacher will be able to leverage time in the classroom and give more focused 1-on-1 attention to students.  Exploration and discovery learning can serve a purpose but as students are learning to program researchers have noted that it’s important to provide guidance and focus the students’ thinking and exercises into productive directions.  By having students watch the short video, take a quiz, and then engage in the activities, students will be more successful.  
+Videos are streamed on CodeHS, teacher provides printed copies of the note-taking guides.
 
+Peer Collaboration and Pair Programming – During collaborative portions of the course, students will work in pairs or groups on exercises, examples, and projects.  This effective pedagogical tool does need to be explicitly taught to students as they learn how to work through conflicting perspectives, varying skill sets, and personalities.  Peer collaboration and pair programming naturally create the environment for students to seek out feedback from one another.  Pair programming is distinct in that it is a pedagogy where the partners work together (as driver and navigator) on one computer while taking on different roles to complete the task.  This effective strategy allows students to give and receive feedback from one another while it is also increasing interest and engagement.
 
-Exercises – Students will engage in exercises that allow students to design and build programs based on new concepts.  By engaging in written programming exercises students will
+Exercises – Students will engage in exercises that allow students to design and build programs based on new concepts.  Students submit exercises through CodeHS.  Exercises are self-graded, and scores are stored in the gradebook which is imported to Aeries.
 
+Examples – Students are given program examples allow them to explore how the code works in the IDE
 
-Projects – Students will be given longer, open-ended labs and projects to advance students’ programming skills.  In addition, students will work on collaborative creation projects and research projects.
+Projects – Students will be given longer, open-ended labs and projects to advance students’ programming skills.  In addition, students will work on collaborative creation projects and research projects.  Projects of choice are a more authentic form of assessment and engage students’ creativity & motivation.  Code reviews and project showcases will be used to allow students to share their work with the class.  Code Reviews and Project Showcases have been shown to increase student engagement, motivation, and creativity.  It also holds students accountable to for their work.
 
+Assessment - Students will have formative quizzes after video tutorials that will provide the instructor with feedback to adjust instruction based on student data.  They are auto graded and provide quick feedback to the student and teacher.  The quizzes will test essential knowledge to pass the AP exam.  In addition, each unit includes a practice AP multiple-choice exam to assess students understand of the concepts in the unit and it provides immediate feedback.  Quizzes are good for quick feedback on student understanding are not necessarily limited to low level knowledge.  Students also have the following assessments: practice performance tasks, projects, AP Exam Review.
+Most assessments are submitted online through CodeHS.  There are assessments that are auto graded and assessments that are graded by instructor with feedback.  Scores are kept in the gradebook and imported into Aeries. 
 
-Assessment – Students will have formative quizzes after video tutorials that will provide the instructor with feedback to guide the pace of the class.  The quizzes will test essential knowledge to pass the AP exam.  In addition, each unit includes a practice AP multiple-choice exam to assess students understand of the concepts in the unit and it provides immediate feedback.
-
-Free Response Exercises - 
-
-The AP Create Performance Task – students will gain the skills necessary to complete this portion of the AP exam in class.  Students will complete practice performance tasks in each unit throughout the course and create their own digital artifacts.
-
+The AP Create Performance Task – students will gain the skills necessary to complete this portion of the AP Exam in class.  Students will complete practice performance tasks in each unit throughout the course and create their own digital artifacts.
 
 Programming Environment
-Students will write, run & debug code in the browser using the CodeHS editor.  The programming language used in this course is Python.  Students may have some familiarity with Python in the future because the district is implementing a Python-based robotics program in the elementary schools.
-
+Python IDE - Students will write, run & debug code in the browser using the CodeHS editor.  The programming language used in this course is Python.  Students may have some familiarity with Python in the future because the district is implementing a Python-based robotics program in the elementary schools.  Programming will be taught early in the course so that students will be able to explore much of the course through computational thinking practices.
+![image](https://user-images.githubusercontent.com/90578374/142753497-6c0afbb0-3e40-4467-9246-08929af141ca.png)
 
 
 ### Impacts
