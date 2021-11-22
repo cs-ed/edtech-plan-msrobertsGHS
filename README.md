@@ -195,27 +195,46 @@ Python IDE - Students will write, run & debug code in the browser using the Code
 ### Impacts
 
 How will the technology help *all* students learn?
+Self-Paced 
+Videos
+Note Templates
+Collaborative Approach, students take the lead at times and teachers often learn from students, there is an energy in the classroom that we are all working together and solving the problems together
+Peer Programming
+Hands-On approach
+Personal Choice in final course project keeps all students interested in the class
+The technology and entry point attracts a new population of students who otherwise wouldn’t have considered themselves an AP student
+Computer science itself is addictive, debugging your errors, and showcasing your final product.  You never forget the sense of accomplishment when you have completed your first running program.  
 
 
 Building Student Resiliency
+Debugging
+
 
 
 Social Challenges
+There may be low interest in the course.
+The instructor may feel isolated working without any collaboration.
 
 
 Legal Challenges
+Gladstone High School will only be open for two more years, which means that if the course is implemented next year there will only be one additional year for the course offering.
 
+Azusa Unified does not have a Computer Science pathway.  There are no other Computer Science courses in the district.  To support develop a CS program, the district should aim for experiences and achievement in elementary and middle schools so that CS - Principles would be full of students who have already created and debugged a program.  However, this would be years out in the future if our district decides to put resources in that direction.  A short term goal would be to implement a 9th grade Intro to Computer Science course into the pathway. 
+
+Declining enrollment in the district has made scheduling AP courses difficult to fit in the master schedule.  Although Gladstone High School has committed to implementing the course in 2022-2023, as the district’s two high schools are merged there is no guarantee that the AP CS – Principles course will continue to be offered.
 
 Ethical Challenges
 
 
 Evolving Course Contexts
-The rapidly growing push for Computer Science Education in K-12 education is relatively new.  The AP CS Principles course is the newest of the of the AP classes for students interested in computer science.  It was introduced in 2016 and was the largest course launch in AP Program history.  In 2019 the College Board announced changes to modify several aspects of the course.  In 2020 the CS Principles course had revisions to it’s conceptual framework and assessments.  It is likely that more revisions will evolve as the College Board incorporated feedback from K-12 and higher ed on ways to improve and update the course.  In addition, the field of computer science itself is rapidly changing which could also lead to changes in the curriculum and assessment. 
+The rapidly growing push for Computer Science Education in K-12 education is relatively new.  The AP CS Principles course is the newest of the of the AP classes for students interested in computer science.  It was introduced in 2016 and was the largest course launch in AP Program history.  It is currently the fastest- growing AP class.  Because AP Computer Science takes a more creative, hands-on approach it appeals to a larger, more diverse set of students.
+In 2019 the College Board announced changes to modify several aspects of the course.  In 2020 the CS Principles course had revisions to it’s conceptual framework and assessments.  It is likely that more revisions will evolve as the College Board incorporated feedback from K-12 and higher ed on ways to improve and update the course.  In addition, the field of computer science itself is rapidly changing which could also lead to changes in the curriculum and assessment. 
 
 Contingency Plans
 Distance Learning
 
 Connectivity
+
 
 ### Sources
 
