@@ -23,7 +23,7 @@ Prior computer science experience is not required to take this course.
 
 This course will meet the “g” of the A-G requirement.
 
-Prerequisite:  Junior/Senior standing and a grade of “C” or better in Integrated II
+Prerequisite:  grade 10-12 and a grade of “C” or better in Integrated I
 
 ### Situation
 
