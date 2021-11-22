@@ -194,17 +194,20 @@ Python IDE - Students will write, run & debug code in the browser using the Code
 
 ### Impacts
 
-How will the technology help *all* students learn?
-Self-Paced 
-Videos
-Note Templates
+All students will engage in curriculum that is engaging, accessible, and relevant.  To ensure that all students able to learn in the CS – Principles course, the course incorporates the Universal Design for Learning (UDL) framework designed by the Center for Applied Special Technology.  
+
+Maximizing Students’ Strengths and Reducing Instructional Barriers
+•	The course is self-paced which addresses the important concept that learner variability is the norm, not the exception.  Students who really excel can proceed at their own pace and study ahead even into any of the future courses.
+•	Since the students can move at their own pace and teachers are able to track their progress, the teacher can address students individually at their current level.
+•	Students with special needs will find on-demand videos and note-templates will scaffold instruction and provide flexibility to review lessons at any time.
+•	
 Collaborative Approach, students take the lead at times and teachers often learn from students, there is an energy in the classroom that we are all working together and solving the problems together
 Peer Programming
 Hands-On approach
 Personal Choice in final course project keeps all students interested in the class
-The technology and entry point attracts a new population of students who otherwise wouldn’t have considered themselves an AP student
+The technology and entry point attracts a new population of students who otherwise wouldn’t have considered themselves an AP student 
 Computer science itself is addictive, debugging your errors, and showcasing your final product.  You never forget the sense of accomplishment when you have completed your first running program.  
-
+Worked Examples - 
 
 Building Student Resiliency
 Debugging
@@ -219,12 +222,14 @@ The instructor may feel isolated working without any collaboration.
 Legal Challenges
 Gladstone High School will only be open for two more years, which means that if the course is implemented next year there will only be one additional year for the course offering.
 
-Azusa Unified does not have a Computer Science pathway.  There are no other Computer Science courses in the district.  To support develop a CS program, the district should aim for experiences and achievement in elementary and middle schools so that CS - Principles would be full of students who have already created and debugged a program.  However, this would be years out in the future if our district decides to put resources in that direction.  A short term goal would be to implement a 9th grade Intro to Computer Science course into the pathway. 
+Azusa Unified does not have a Computer Science pathway.  There are no other Computer Science courses in the district.  To support develop a CS program, the district should aim for experiences and achievement in elementary and middle schools so that CS - Principles would be full of students who have already created and debugged a program.  However, this would be years out in the future if our district decides to put resources in that direction.  A short-term goal would be to implement a 9th grade Exploring Computer Science course into the pathway. 
 
 Declining enrollment in the district has made scheduling AP courses difficult to fit in the master schedule.  Although Gladstone High School has committed to implementing the course in 2022-2023, as the district’s two high schools are merged there is no guarantee that the AP CS – Principles course will continue to be offered.
 
 Ethical Challenges
+Although programming is engaging for a large range of students, including students with disabilities, there may be some challenges that we are not able to address during the first year of implementation.
 
+Gladstone High School is part of the East San Gabriel Valley SELPA (Special Education Local Plan Area).  Our district provides services for students with visual impairments.  Students with visual or print-based learning may still participate with text readers, however most programming languages have limited or no accessibility for text readers.  
 
 Evolving Course Contexts
 The rapidly growing push for Computer Science Education in K-12 education is relatively new.  The AP CS Principles course is the newest of the of the AP classes for students interested in computer science.  It was introduced in 2016 and was the largest course launch in AP Program history.  It is currently the fastest- growing AP class.  Because AP Computer Science takes a more creative, hands-on approach it appeals to a larger, more diverse set of students.
@@ -234,6 +239,7 @@ Contingency Plans
 Distance Learning
 
 Connectivity
+![image](https://user-images.githubusercontent.com/90578374/142825644-c00ce7ae-6a8a-4be2-8c9e-a60442c85fb7.png)
 
 
 ### Sources
