@@ -194,10 +194,28 @@ Python IDE - Students will write, run & debug code in the browser using the Code
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+How will the technology help *all* students learn?
+
+
+Building Student Resiliency
+
+
+Social Challenges
+
+
+Legal Challenges
+
+
+Ethical Challenges
+
+
+Evolving Course Contexts
+The rapidly growing push for Computer Science Education in K-12 education is relatively new.  The AP CS Principles course is the newest of the of the AP classes for students interested in computer science.  It was introduced in 2016 and was the largest course launch in AP Program history.  In 2019 the College Board announced changes to modify several aspects of the course.  In 2020 the CS Principles course had revisions to it’s conceptual framework and assessments.  It is likely that more revisions will evolve as the College Board incorporated feedback from K-12 and higher ed on ways to improve and update the course.  In addition, the field of computer science itself is rapidly changing which could also lead to changes in the curriculum and assessment. 
+
+Contingency Plans
+Distance Learning
+
+Connectivity
 
 ### Sources
 
