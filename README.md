@@ -254,3 +254,5 @@ https://codehs.com/standards/framework/APCSP20/course/8066
 https://nurtem.com/why-python-is-better-than-other-languages/
 
 https://www.usnews.com/education/blogs/college-admissions-playbook/articles/2018-03-12/choose-between-ap-computer-science-a-ap-computer-science-principles
+
+https://www.the74million.org/article/hands-on-ap-computer-science-principles-course-has-broad-appeal-for-diverse-groups-of-students-and-is-changing-how-they-see-themselves/
