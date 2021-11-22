@@ -200,17 +200,25 @@ Maximizing Students’ Strengths and Reducing Instructional Barriers
 •	The course is self-paced which addresses the important concept that learner variability is the norm, not the exception.  Students who really excel can proceed at their own pace and study ahead even into any of the future courses.
 •	Since the students can move at their own pace and teachers are able to track their progress, the teacher can address students individually at their current level.
 •	Students with special needs will find on-demand videos and note-templates will scaffold instruction and provide flexibility to review lessons at any time.
-•	
+•	Student projects have a “base” but allow for multiple entry points so that students can all be working on the same project but with different participation and complexity.
+
+Scaffolding Programming Instruction
+•	Course lessons are scaffolded to include a balance of instructional support followed by independent or collaborative problem-solving.  Another method for scaffolding instruction is to provide or discuss worked examples help guide remove the cognitive prior to students writing a similar program.  Live coding is also a great tool to scaffold beginner programmers as they build the vocabulary and skills to write programs.
+•	Students are provided choice in projects to engage all learners and increase student motivation.  
+
+Use Multiple Means of Representation and Engagement
+•	 
+
+Building Student Resiliency
+•	Explicitly teaching debugging strategies to reduce student frustration
+
+
+
 Collaborative Approach, students take the lead at times and teachers often learn from students, there is an energy in the classroom that we are all working together and solving the problems together
 Peer Programming
 Hands-On approach
-Personal Choice in final course project keeps all students interested in the class
-The technology and entry point attracts a new population of students who otherwise wouldn’t have considered themselves an AP student 
 Computer science itself is addictive, debugging your errors, and showcasing your final product.  You never forget the sense of accomplishment when you have completed your first running program.  
-Worked Examples - 
 
-Building Student Resiliency
-Debugging
 
 
 
@@ -239,7 +247,6 @@ Contingency Plans
 Distance Learning
 
 Connectivity
-
 
 
 ### Sources
