@@ -239,7 +239,7 @@ Contingency Plans
 Distance Learning
 
 Connectivity
-![image](https://user-images.githubusercontent.com/90578374/142825644-c00ce7ae-6a8a-4be2-8c9e-a60442c85fb7.png)
+
 
 
 ### Sources
