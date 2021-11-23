@@ -111,6 +111,7 @@ The teacher was recently provided a Dell Latitude 5510 with the following specs:
 - Display: 15.5’’ Full HD, WLED, no touch option 
 
 **Peripherals**
+
 *Have*
 - HP LaserJet Pro M201dw Laser Printer 
 - ELMO Document Camera TT-12W Interactive Document Camera 3.4MP 12x Optical Zoom 1080 HDMI
@@ -128,6 +129,7 @@ The teacher was recently provided a Dell Latitude 5510 with the following specs:
 - Epson PowerLite 1288 Office Projector – Projector – 1 unit 
 
 **Furniture**
+
 *Have*
 - 28 student desks
 - 28 student chairs
