@@ -131,8 +131,8 @@ Have
 •	Dell Docking Station - WD19S 180W
 
 Need
-•	Dell Wireless Mouse WM126 – 36 units
-•	JLab Audio Studio Pro Over Ear Wired Headphones – 36 units
+•	Dell Wireless Mouse WM126 – 28 units
+•	JLab Audio Studio Pro Over Ear Wired Headphones – 28 units
 •	Dell Premier Multi-Device Wireless Keyboard and Mouse – KM7321W – 1 unit
 •	Dell Docking Station Mounting Kit – MK15 – 1 unit
 •	Dell Dual Monitor Stand – MDS19 – 1 unit
@@ -142,8 +142,8 @@ Need
 
 Furniture
 Have
-•	36 student desks
-•	36 student chairs
+•	28 student desks
+•	28 student chairs
 
 Need
 •	FlexiSpot Vici EC9 - Sit/standing desk - rectangular – black (for instructor set-up)
@@ -210,7 +210,11 @@ Use Multiple Means of Representation and Engagement
 •	 
 
 Building Student Resiliency
-•	Explicitly teaching debugging strategies to reduce student frustration
+•	Explicitly teaching debugging strategies to reduce student frustration will help students be more productive when they encounter problems with their code.
+•	Students can become easily frustrated and lose motivation using the novice approach of “guess and check.”  Therefore, having students practice debugging strategies will increase self-monitoring, self-assessment, and build independence.
+
+Individualized Educational Plans
+•	Although the UDL is effective for all students, it does not remove the need to still provide student specific accommodations and modifications per their IEP.
 
 
 
@@ -218,9 +222,6 @@ Collaborative Approach, students take the lead at times and teachers often learn
 Peer Programming
 Hands-On approach
 Computer science itself is addictive, debugging your errors, and showcasing your final product.  You never forget the sense of accomplishment when you have completed your first running program.  
-
-
-
 
 Social Challenges
 There may be low interest in the course.
@@ -240,14 +241,13 @@ Although programming is engaging for a large range of students, including studen
 Gladstone High School is part of the East San Gabriel Valley SELPA (Special Education Local Plan Area).  Our district provides services for students with visual impairments.  Students with visual or print-based learning may still participate with text readers, however most programming languages have limited or no accessibility for text readers.  
 
 Evolving Course Contexts
-The rapidly growing push for Computer Science Education in K-12 education is relatively new.  The AP CS Principles course is the newest of the of the AP classes for students interested in computer science.  It was introduced in 2016 and was the largest course launch in AP Program history.  It is currently the fastest- growing AP class.  Because AP Computer Science takes a more creative, hands-on approach it appeals to a larger, more diverse set of students.
+The rapidly growing push for Computer Science Education in K-12 education is relatively new.  The AP CS Principles course is the newest of the of the AP classes for students interested in computer science.  It was introduced in 2016 and was the largest course launch in AP Program history.  It is currently the fastest- growing AP class.  Because AP Computer Science takes a more creative, hands-on approach it appeals to a more diverse set of students.
 In 2019 the College Board announced changes to modify several aspects of the course.  In 2020 the CS Principles course had revisions to it’s conceptual framework and assessments.  It is likely that more revisions will evolve as the College Board incorporated feedback from K-12 and higher ed on ways to improve and update the course.  In addition, the field of computer science itself is rapidly changing which could also lead to changes in the curriculum and assessment. 
 
 Contingency Plans
 Distance Learning
 
 Connectivity
-
 
 ### Sources
 
