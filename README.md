@@ -98,7 +98,7 @@ The teacher was recently provided a Dell Latitude 5510 with the following specs:
 - Battery: 51 Whr, 11.40 VDC, operating time varies depending on operating conditions, charging time 4 hours when computer is off
 - Display: 15.5’’ Full HD, WLED, no touch option 
 
-**Peripherals**  
+**Peripherals**    
 *Have*  
 - HP LaserJet Pro M201dw Laser Printer 
 - ELMO Document Camera TT-12W Interactive Document Camera 3.4MP 12x Optical Zoom 1080 HDMI
@@ -113,7 +113,7 @@ The teacher was recently provided a Dell Latitude 5510 with the following specs:
 - Dell Dual Monitor Stand – MDS19 – 1 unit
 - Dell 24-inch P2419H Flat Panel Monitor – 2 units
 - Dell Multi-Device Wireless Keyboard and Mouse Combo - KM7120W – 1 unit
-- Epson PowerLite 1288 Office Projector – Projector – 1 unit 
+- Epson PowerLite 1288 Office Projector – Projector – 1 unit   
 
 **Furniture**  
 *Have*  
