@@ -66,39 +66,40 @@ The official language for the course is *Python*.
 >12. Cheat Detection Tools
 >
 >In addition, students will access the online *Python* IDE to write, run & debug code in a web-based IDE on CodeHS.  
+
+
+> #### **Google Workspace for Education Fundamentals with Teaching and Learning Upgrade (Teacher and Students)**
 >
-**Google Workspace for Education Fundamentals with Teaching and Learning Upgrade
-(Teacher and Students)**
+>Students will use Google Apps such as Gmail, Classroom, Docs, Slides, Forms, and Drive to collaborate and communicate throughout the course.  
 
-Students will use Google Apps such as Gmail, Classroom, Docs, Slides, Forms, and Drive to collaborate and communicate throughout the course.  
 
-**Google Classroom LMS (Teacher and Students)**
+> #### **Google Classroom LMS (Teacher and Students)**
+>
+>GHS school uses Google Classroom so it would be used to include the course agenda’s, syllabus, and announcements.  It is integrated with Google Apps, Aeries, and CodeHS.
 
-GHS school uses Google Classroom so it would be used to include the course agenda’s, syllabus, and announcements.  It is integrated with Google Apps, Aeries, and CodeHS.
+> #### **Aeries SIS (Teacher and Students)**
+>
+>The SIS platform is used for district gradebooks, attendance, student contact information, and parent communication.  The platform provides mobile Apps, analytics, parent reports, and cloud backups of teacher gradebooks.  Students and parents access Aeries to check their students’ progress at their convenience.  
 
-**Aeries SIS (Teacher and Students)**
+> #### **Slack (Teacher and Students)**
+>
+>A communication tool for students and teacher to collaborate with the aim to be more productive.
 
-The SIS platform is used for district gradebooks, attendance, student contact information, and parent communication.  The platform provides mobile Apps, analytics, parent reports, and cloud backups of teacher gradebooks.  Students and parents access Aeries to check their students’ progress at their convenience.  
+> #### **GitHub Education (Teacher and Students)**
+>
+>GitHub will be used for several course projects.  Students would then be able to collaborate with others and build a portfolio to showcase real-world experience in their future.  
 
-**Slack (Teacher and Students)**
+> #### **Hapara (Teacher and Students)**
+>
+>Hapara helps teachers monitor students working in real-time and encourages digital citizenship.  It provides ethical Chromebook monitoring with Hapara Highlights which encourages students to stay on task and take ownership of their learning.  Teachers can monitor their students’ open tabs during instructional hours, see students’ current screens, guide browsers, and send private messages to students who are off task.
 
-A communication tool for students and teacher to collaborate with the aim to be more productive.
+> #### **Microsoft Office 365, GoodNotes, Acrobat Pro DC (Teacher Only)**
+>
+>Used for daily lesson planning and note taking guides.
 
-**GitHub Education (Teacher and Students)**
-
-GitHub will be used for several course projects.  Students would then be able to collaborate with others and build a portfolio to showcase real-world experience in their future.  
-
-**Hapara (Teacher and Students)**
-
-Hapara helps teachers monitor students working in real-time and encourages digital citizenship.  It provides ethical Chromebook monitoring with Hapara Highlights which encourages students to stay on task and take ownership of their learning.  Teachers can monitor their students’ open tabs during instructional hours, see students’ current screens, guide browsers, and send private messages to students who are off task.
-
-**Microsoft Office 365, GoodNotes, Acrobat Pro DC (Teacher Only)**
-
-Used for daily lesson planning and note taking guides.
-
-**Loom for Education (Teacher Only)**
-
-The video recording and editing platform can be downloaded as a desktop app or as a Chrome extension.  Lessons can be up to 45 minutes and Loom offers advanced features that are free for educators.  Videos can be integrated into Google Classroom.
+> #### **Loom for Education (Teacher Only)**
+>
+>The video recording and editing platform can be downloaded as a desktop app or as a Chrome extension.  Lessons can be up to 45 minutes and Loom offers advanced features that are free for educators.  Videos can be integrated into Google Classroom.
 
 
 ### Hardware Specifications
