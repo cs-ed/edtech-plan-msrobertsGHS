@@ -49,57 +49,42 @@ Although there is an Apple computer lab on campus that was purchased to support 
 All software requires a secure and reliable internet connection.
 The official language for the course is *Python*.
 
-> #### **CodeHS.com (Teacher and Students)**
->
-> CodeHS is recognized by the College Board and is an endorsed provider of curriculum and professional development for AP CS - Principles.  This will afford GHS >access to the pre-approved syllabus and high quality professional development.  Code HS will serve as main platform for the course.  I would request my district >purchase the CodeHS Pro upgrade to provide all the tools, resources and support needed to run a high-quality computer science program.  The AP Computer Science 
->course includes: 
->
->1. Lesson Plans
->2. Videos & Slides
->3. Exercises
->4. Examples
->5. Projects
->6. Formative Assessments
->7. Comprehensive Assessments
->8. Gradebook
->11. Progress Monitoring
->12. Cheat Detection Tools
->
->In addition, students will access the online *Python* IDE to write, run & debug code in a web-based IDE on CodeHS.  
+**1. CodeHS.com (Teacher and Students)**
+
+- CodeHS is recognized by the College Board and is an endorsed provider of curriculum and professional development for AP CS - Principles.  This will afford GHS access to the pre-approved syllabus and high quality professional development.  Code HS will serve as main platform for the course.  I would request my district purchase the CodeHS Pro upgrade to provide all the tools, resources and support needed to run a high-quality computer science program.  In addition, students will access the online *Python* IDE to write, run & debug code in a web-based IDE on CodeHS.  
 
 
-> #### **Google Workspace for Education Fundamentals with Teaching and Learning Upgrade (Teacher and Students)**
->
->Students will use Google Apps such as Gmail, Classroom, Docs, Slides, Forms, and Drive to collaborate and communicate throughout the course.  
+**2. Google Workspace for Education Fundamentals with Teaching and Learning Upgrade (Teacher and Students)**
 
+- Students will use Google Apps such as Gmail, Classroom, Docs, Slides, Forms, and Drive to collaborate and communicate throughout the course.  
 
-> #### **Google Classroom LMS (Teacher and Students)**
->
->GHS school uses Google Classroom so it would be used to include the course agenda’s, syllabus, and announcements.  It is integrated with Google Apps, Aeries, and CodeHS.
+**3. Google Classroom LMS (Teacher and Students)**
 
-> #### **Aeries SIS (Teacher and Students)**
->
->The SIS platform is used for district gradebooks, attendance, student contact information, and parent communication.  The platform provides mobile Apps, analytics, parent reports, and cloud backups of teacher gradebooks.  Students and parents access Aeries to check their students’ progress at their convenience.  
+- GHS school uses Google Classroom so it would be used to include the course agenda’s, syllabus, and announcements.  It is integrated with Google Apps, Aeries, and CodeHS.
 
-> #### **Slack (Teacher and Students)**
->
->A communication tool for students and teacher to collaborate with the aim to be more productive.
+**4. Aeries SIS (Teacher and Students)**
 
-> #### **GitHub Education (Teacher and Students)**
->
->GitHub will be used for several course projects.  Students would then be able to collaborate with others and build a portfolio to showcase real-world experience in their future.  
+- The SIS platform is used for district gradebooks, attendance, student contact information, and parent communication.  The platform provides mobile Apps, analytics, parent reports, and cloud backups of teacher gradebooks.  Students and parents access Aeries to check their students’ progress at their convenience. 
 
-> #### **Hapara (Teacher and Students)**
->
->Hapara helps teachers monitor students working in real-time and encourages digital citizenship.  It provides ethical Chromebook monitoring with Hapara Highlights which encourages students to stay on task and take ownership of their learning.  Teachers can monitor their students’ open tabs during instructional hours, see students’ current screens, guide browsers, and send private messages to students who are off task.
+**5. Slack (Teacher and Students)**
 
-> #### **Microsoft Office 365, GoodNotes, Acrobat Pro DC (Teacher Only)**
->
->Used for daily lesson planning and note taking guides.
+- A communication tool for students and teacher to collaborate with the aim to be more productive.
 
-> #### **Loom for Education (Teacher Only)**
->
->The video recording and editing platform can be downloaded as a desktop app or as a Chrome extension.  Lessons can be up to 45 minutes and Loom offers advanced features that are free for educators.  Videos can be integrated into Google Classroom.
+**6. GitHub Education (Teacher and Students)**
+
+- GitHub will be used for several course projects.  Students would then be able to collaborate with others and build a portfolio to showcase real-world experience in their future.  
+
+**7. Hapara (Teacher and Students)**
+
+- Hapara helps teachers monitor students working in real-time and encourages digital citizenship.  It provides ethical Chromebook monitoring with Hapara Highlights which encourages students to stay on task and take ownership of their learning.  Teachers can monitor their students’ open tabs during instructional hours, see students’ current screens, guide browsers, and send private messages to students who are off task.
+
+**8. Microsoft Office 365, GoodNotes, Acrobat Pro DC (Teacher Only)**
+
+- Used for daily lesson planning and note taking guides.
+
+**9. Loom for Education (Teacher Only)**
+
+- The video recording and editing platform can be downloaded as a desktop app or as a Chrome extension.  Lessons can be up to 45 minutes and Loom offers advanced features that are free for educators.  Videos can be integrated into Google Classroom.
 
 
 ### Hardware Specifications
