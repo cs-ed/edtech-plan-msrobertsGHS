@@ -1,30 +1,29 @@
 # Educational Technology Plan
 
-My educational technology plan is to prepare, plan, and implement the new AP Computer Science Principles course at Gladstone High School in Covina.
+My educational technology plan is to prepare, plan, and implement the new AP Computer Science Principles course at Gladstone High School in Covina, California.
 
 ## Context
 
-My educational technology plan is to prepare, plan, and implement the new AP Computer Science Principles course at Gladstone High School in Covina.
-
 ### Course
 
-AP Computer Science Principles
+AP Computer Science Principles (10th, 11th, 12th, Grade)
 
 “AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. They incorporate abstraction into programs and use data to discover new knowledge. Students also explain how computing innovations and computing systems—including the internet—work, explore their potential impacts, and contribute to a computing culture that is collaborative and ethical.”  - College Board 
 
-or (couldn’t decide)
+or maybe
 
 “This course introduces students to the foundational concepts of computer science and explores the impact computing and technology have on our society.
 
 With a unique focus on creative problem solving and real-world applications, the AP Computer Science Principles course gives students the opportunity to explore several important topics of computing using their own ideas and creativity, use the power of computing to create artifacts of personal value, and develop an interest in computer science that will foster further endeavors in the field.”  - CodeHS Syllabus
 
 Prior computer science experience is not required to take this course.
+This course meets the “G” of the A-G requirement for UC/CSU.
 
-This course will meet the “g” of the A-G requirement.
+Prerequisite:  A grade of C or better in Integrated Math I or Accelerated Math I
 
-Prerequisite:  grade 10-12 and a grade of “C” or better in Integrated I
+### Situation (From latest WASC and SARC reports)
 
-### Situation
+Gladstone High School
 
 Gladstone High School is one of two comprehensive high schools in the Azusa Unified School District.  Located in the northwest corner of the city of Covina, GHS is part of the east San Gabriel Valley in Los Angeles County and is approximately twenty-five miles from downtown Los Angeles.  AUSD encompasses 9.7 square miles of Azusa and parts of Covina and unincorporated Los Angeles County, however, the majority (87%) of the students reside in Azusa.  
 
@@ -32,34 +31,33 @@ The school serves a multicultural population, predominantly Latino (92.8%), livi
 
 The ethnic distribution of the students is 92.8% Hispanic, 2.8% White, 1.2% African American, and 3.2% other ethnicities. 
 
-The student enrollment of the students is English Learner population is 14.8%, socioeconomically disadvantaged 83.3%, students with disabilities 16.8%, foster youth 0.9%, and homeless 5.9%.
+Approximately 14.8% of students are English Learners, 83.3% socioeconomically disadvantaged 83.3%, 16.8% students with disabilities, 0.9% foster youth, and 5.9% are homeless.
+In March 2019 AUSD invested in providing all students Chromebooks to use for distance learning.  As students returned to the classroom, they were given the option to keep the Chromebook for upcoming school year.  Most students chose to keep the Chromebook.
 
-
-In March 2019 AUSD invested in providing all students a Chromebook to use for distance learning.  As students returned to the classroom, they were given the option to keep the Chromebook for home use.  Most students chose to keep the Chromebook to complete homework for the upcoming school year.
-
-
-Most teachers were given classroom sets of new laptops at the start of the year and wireless access points were installed in each classroom.  However, the district’s wi-fi does not provide consistent connection to sites.  They have recently hired a new director of technology.
+At the start of 2021 classrooms were outfitted with new laptops at the start of the year and wireless access points were installed in each classroom.  However, the district’s wi-fi does not provide consistent connection to sites.  The district recently hired a new director of technology to make improvements soon.
 
 The district provides tech support for staff and students.  In addition, if a student’s Chromebook stops working, they can exchange it for a working Chromebook at the school site.  
 
-During distance learning teachers and students became more proficient at using technology to implement Google Suite application.  Like many students throughout the nation, there was students who had limited or no internet access at home.  The district eventually provided hotspots for families who requested them.  Many students still choose to complete assignments on their phone due to faster connection times.
+During distance learning teachers and students became more proficient at using technology, particularly in using the Google Suite applications.  Like many students throughout the nation, there were students who had limited or no internet access at home.  The district ultimately provided hotspots for families who requested them.  Many students still choose to complete assignments on their phone due to faster connection times.
 
-One of GHS’s WASC goals is commit resources to increase student use of technology.  In previous years progress was made towards meeting this goal by providing teachers with chrome carts.  Another stop to meeting this goal was to create a Graphic Arts Academy that begins with IT Principles, Design, and then coding and other computer science skills.  A new Apple computer lab was purchased to support this academy to its fullest capacity.
+One of GHS’s WASC goals is commit resources to increase student use of technology.  In previous years, progress was made towards meeting this goal by providing teachers with chrome carts.  Another step towards meeting this goal was to create a Graphic Arts Academy that begins with IT Principles, followed by Graphic Design, and then Computer Science.  A new Apple computer lab was purchased to support this academy to its fullest capacity.
 
-One constraint is the boards recent decision to close our high school and convert it to a middle school.  This Tech Educational Plan will be used for next year, however my school will only be open for two more years.  For this reason, I am going to try to make my plan flexible and broad.  I may be teaching this course at another site in a few years.
+One constraint is the boards recent decision to close GHS high school and convert it to a middle school.  This  Educational Technology Plan will be used for next year, however GHS will only be open for two more years.  For this reason, this plan is flexible and broad.  
 
-Class size is maxed out at 36 in my district; however, AP classes are typically smaller.  Initially, recruiting students for the course may be a challenge and therefore the class size may be small.
+Class size is maxed out at 36 in my district; however, AP classes are typically smaller.  Initially, recruiting students for the course may be a challenge and therefore the class size may be small.  Optimal class size for an AP Computer Science course would be maxed out at 28 so that the instructor could provide individual support to students as they learn to program at differing levels.
 
-Although there is an Apple computer lab on campus that was purchased to support the new academy, I believe I will need to plan on implementing the course using student Chromebooks due to possible scheduling conflicts.  However, if I am allowed to use the lab, I would be more than happy to.
+Although there is an Apple computer lab on campus that was purchased to support the new academy, the Ed Tech Plan is based on implementing the course using the laptops in each classroom.  Due to scheduling conflicts in the master schedule, it may not be possible to use the Apple lab for this course.
 
 ## Plan
 
 ### Software Specifications
 
-All software requires a secure and reliable internet connection:
+All software requires a secure and reliable internet connection.
+The official language for the course is Python.
 
 CodeHS.com (Teacher and Students)
-CodeHS is recognized by the College Board and is an endorsed provider of curriculum and professional development for AP CSP.  This will afford my school access to the pre-approved syllabus and professional development.  Code HS will serve as main platform for the course.  I would request my district purchase the CodeHS Pro upgrade to provide all the tools, resources and support needed to run a high quality computer science program.  The AP Computer Science Principles course includes:
+CodeHS is recognized by the College Board and is an endorsed provider of curriculum and professional development for AP-CSP.  This will afford GHS access to the pre-approved syllabus and high quality professional development.  Code HS will serve as main platform for the course.  I would request my district purchase the CodeHS Pro upgrade to provide all the tools, resources and support needed to run a high-quality computer science program.  The AP Computer Science Principles course includes:
+
 
 Lesson Plans
 Videos & Slides
@@ -72,32 +70,33 @@ Cheat Detection Tools
 Gradebook
 Progress Monitoring
 
-In addition, students will access the online IDE to write, run & debug code in a web-based IDE on CodeHS.  
+In addition, students will access the online Python IDE to write, run & debug code in a web-based IDE on CodeHS.  
 
 Google Workspace for Education Fundamentals with Teaching and Learning Upgrade
 (Teacher and Students)
 Students will use Google Apps such as Gmail, Classroom, Docs, Slides, Forms, and Drive to collaborate and communicate throughout the course.  
 
 Google Classroom LMS (Teacher and Students)
-Our school uses Google Classroom so it would be necessary to include agenda’s, syllabi, and course announcements on this site.  It is integrated with Google Apps, Aeries, and CodeHS.
+GHS school uses Google Classroom so it would be used to include the course agenda’s, syllabus, and announcements.  It is integrated with Google Apps, Aeries, and CodeHS.
 
 Aeries SIS (Teacher and Students)
-The SIS platform is used  for district gradebooks, attendance, student contact information, and parent communication.  The platform provides mobile Apps, analytics, parent reports, and cloud backs of teacher gradebooks.  Students and parents access Aeries to check their students progress at their convenience.  
+The SIS platform is used for district gradebooks, attendance, student contact information, and parent communication.  The platform provides mobile Apps, analytics, parent reports, and cloud backups of teacher gradebooks.  Students and parents access Aeries to check their students’ progress at their convenience.  
 
 Slack (Teacher and Students)
-A communication tool for students and teacher to collaborate to be more productive.
+A communication tool for students and teacher to collaborate with the aim to be more productive.
 
 GitHub Education (Teacher and Students)
-I would like to incorporate GitHub for my course projects.  Students would then be able to collaborate with others and build a portfolio to showcase real-world experience in the future.  
+GitHub will be used for several course projects.  Students would then be able to collaborate with others and build a portfolio to showcase real-world experience in their future.  
 
 Hapara (Teacher and Students)
-Hapara helps teachers monitor students working in real-time and encourages digital citizenship.  It provides ethical Chromebook monitoring with Hapara Highlights which encourages students to stay on task and take ownership of their learning.  Teachers can monitor their students open tabs during instructional hours, see students current screens, guide browsers, and send private messages to students who are off task.
+Hapara helps teachers monitor students working in real-time and encourages digital citizenship.  It provides ethical Chromebook monitoring with Hapara Highlights which encourages students to stay on task and take ownership of their learning.  Teachers can monitor their students’ open tabs during instructional hours, see students’ current screens, guide browsers, and send private messages to students who are off task.
 
 Microsoft Office 365, GoodNotes, Acrobat Pro DC (Teacher Only)
 Used for daily lesson planning and note taking guides.
 
 Loom for Education (Teacher Only)
-The video recording and editing platform can be downloaded as a desktop app or as a Chrome extension.  Lessons can be up to 45 minutes have many advanced features that are free for educators.  They can also be integrated into Google Classroom.
+The video recording and editing platform can be downloaded as a desktop app or as a Chrome extension.  Lessons can be up to 45 minutes and Loom offers advanced features that are free for educators.  Videos can be integrated into Google Classroom.
+
 
 ### Hardware Specifications
 
@@ -135,23 +134,25 @@ Need
 •	Dell Premier Multi-Device Wireless Keyboard and Mouse – KM7321W – 1 unit
 •	Dell Docking Station Mounting Kit – MK15 – 1 unit
 •	Dell Dual Monitor Stand – MDS19 – 1 unit
-•	Dell 24 inch P2419H Flat Panel Monitor – 2 units
+•	Dell 24-inch P2419H Flat Panel Monitor – 2 units
 •	Dell Multi-Device Wireless Keyboard and Mouse Combo - KM7120W – 1 unit
-•	Epson PowerLite 1288 Office Projector - Projector
+•	Epson PowerLite 1288 Office Projector – Projector – 1 unit 
 
 Furniture
 Have
 •	28 student desks
 •	28 student chairs
 
+
 Need
-•	FlexiSpot Vici EC9 - Sit/standing desk - rectangular – black (for instructor set-up)
+•	FlexiSpot Vici EC9 - Sit/standing desk - rectangular – black (for instructor set-up) – 1 unit
 
 Constraints
 •	Slow, limited or sometimes no Wi-Fi on campus
 •	Slow, limited or no Wi-Fi in student’s homes for assignments
 
 Teachers and students are connected to Wi-Fi access points throughout the school site through secure teacher and student networks.  We do have a mobile network; however, teachers and students are not given access.
+
 
 ### Application
 
@@ -160,36 +161,38 @@ The new course, AP Computer Science Principles, at Gladstone High School will us
 
 •	It is a College Board endorsed provider of AP Computer Science Principles curriculum and thus meets the course audit requirements.
 •	Implementing a new course with a complete curriculum with embedded professional development from CodeHS would be beneficial for the teacher and students.
-•	By choosing the AP Computer Science Principles in Python, the process of getting the course approved for next year will be expedited.
+•	By choosing the AP Computer Science Principles in Python, the process of getting the course approved for next school year will be expedited.
 •	The instructor has experience working with CodeHS from the computer science course work while attaining the computer science credential authorization.  She found it engaging, user-friendly, and the online IDE allows for students to write, run, & debug code.
 •	The AP Computer Science Principles in Python course is 100% aligned to the 2020 standards (332 standards).
 •	CodeHS provides free Digital Textbooks for students as a supplementary resource for the teacher and students.
-•	CodeHS pathways are aligned to or support the Next Generation Science Standards & Common Core Mathematics Standards.  Hopefully in the future our district can implement a 6-12 computer science pathway.
+•	CodeHS pathways are aligned to or support the Next Generation Science Standards & Common Core Mathematics Standards.  If the district implements a 6-12 computer science pathway, they could use CodeHS pathways as a guide for successful implementation.
+
 
 Overview
-At Gladstone High School, AP Computer Science Principles uses an integrated learning approach like the math courses at our site.  Students will build their knowledge and understanding through actively participating in a variety of activities and exercises.  The five big ideas of the course are integrated throughout the year with each big idea solidifying as the year progresses.  In addition, the six computation thinking practices are embedded throughout the lessons and coursework.  Assessments will build on and spiral content.
+At Gladstone High School, AP Computer Science Principles uses an integrated learning approach like the math department.  Students will build their knowledge and understanding through actively participating in a variety of activities and exercises.  The five big ideas of the course are integrated throughout the year with each big idea solidifying as the year progresses.  In addition, the six computation thinking practices are embedded throughout the lessons and coursework.  Assessments will build on and spiral content.
 
 Students will engage in curriculum that is focused on creative problem-solving and real-world applications.  In addition, students will be able to explore topics of personal interest, community problems, and current events.  Student-initiated explorations are more valuable, enjoyable, and robust. 
 
 Learning Environment
 Videos & Slides – Students learn new content through short video tutorials and are provided with guided note-templates.  Tutorials cover programming topics and concepts in the upcoming lesson.  The blended classroom approach of web-based and physical activities allows for students to engage in in-person collaborative exercises with peers.  By doing so the teacher will be able to leverage time in the classroom and give more focused 1-on-1 attention to students.  Exploration and discovery learning can serve a purpose but as students are learning to program researchers have noted that it’s important to provide guidance and focus the students’ thinking and exercises into productive directions.  By having students watch the short video, take a quiz, and then engage in the activities, students will be more successful.  
-Videos are streamed on CodeHS, teacher provides printed copies of the note-taking guides.
+Videos are streamed on CodeHS.  The teacher provides printed copies of the note-taking guides.
 
-Peer Collaboration and Pair Programming – During collaborative portions of the course, students will work in pairs or groups on exercises, examples, and projects.  This effective pedagogical tool does need to be explicitly taught to students as they learn how to work through conflicting perspectives, varying skill sets, and personalities.  Peer collaboration and pair programming naturally create the environment for students to seek out feedback from one another.  Pair programming is distinct in that it is a pedagogy where the partners work together (as driver and navigator) on one computer while taking on different roles to complete the task.  This effective strategy allows students to give and receive feedback from one another while it is also increasing interest and engagement.
+Peer Collaboration and Pair Programming – During collaborative portions of the course, students will work in pairs or groups on exercises, examples, and projects.  This effective pedagogical tool does need to be explicitly taught to students as they learn how to work through conflicting perspectives, different skill sets, and personalities.  Peer collaboration and pair programming naturally create the environment for students to seek out feedback from one another.  Pair programming is distinct in that it is a tool where the partners work together (as driver and navigator) on one computer while taking on different roles to complete the programming task.  This effective strategy allows students to give and receive feedback from one another while it also increases interest and engagement.
 
-Exercises – Students will engage in exercises that allow students to design and build programs based on new concepts.  During the lessons students work through assigned exercises after completing the tutorials, notes, and quiz.  The exercises are opportunities for students to start problem-solving in the IDE.  CodeHS’s exercises are engaging and often involve real-life situations.  Students can self-monitor their solutions by running the code in the IDE and beginning the process of debugging.  Students submit exercises through CodeHS.  
+Exercises – Students will engage in exercises that allow students to design and build programs based on new concepts.  During the lessons students work through assigned exercises after completing the tutorials, notes, and quizzes.  The exercises are opportunities for students to start problem-solving in the IDE.  CodeHS’s exercises are engaging and often involve real-life situations.  Students can self-monitor their solutions by running the code in the IDE and begin the process of debugging.  Students submit exercises through CodeHS.  
 
-Examples – Students are given program examples allow them to explore how the code works in the IDE.  The examples scaffold the skills/concepts being taught.  Learning to program is a difficult and complex skill.  As students are learning to program, they need more than open-ended tasks because they lack the skills.  Therefore, students will be guided through selected examples of coded solutions before they begin writing their own programs.  This approach makes reduces the cognitive load as students are learning to code.  Effective methods for scaffolding examples for/with students are code reading, worked examples, live coding, Use-Modify-Create, and PRIMM.  This course will use a combination of these scaffolding techniques.  
+Examples – Students are given program examples that allow them to explore how the code works in the IDE.  The examples scaffold the skills/concepts being taught.  Learning to program is a difficult and complex skill.  As students are learning to program, they need more than open-ended tasks because they lack the basic skills.  Therefore, students will be guided through selected examples of coded solutions before they begin writing their own programs.  This approach reduces the cognitive load as students are learning to code.  Effective methods for scaffolding examples for/with students are code reading, worked examples, live coding, Use-Modify-Create, and PRIMM.  This course will use a combination of these scaffolding techniques.  
 
-Projects – Students will be given longer, open-ended labs and projects to advance students’ programming skills.  In addition, students will work on collaborative creation projects and research projects.  Projects of choice are a more authentic form of assessment and engage students’ creativity & motivation.  Code reviews and project showcases will be used to allow students to share their work with the class.  Code Reviews and Project Showcases have been shown to increase student engagement, motivation, and creativity.  It also holds students accountable to for their work.
+Projects – Students will be given longer, open-ended labs and projects to advance students’ programming skills.  In addition, students will work on collaborative creation projects and research projects.  Projects of choice are more authentic and engage students’ creativity & motivation.  Code reviews and project showcases will be used to allow students to share their work with the class.  Code reviews and project showcases have been shown to increase student engagement, motivation, and creativity.  It also holds students accountable for completing their work.
 
-Assessment - Students will have formative quizzes after video tutorials that will provide the instructor with feedback to adjust instruction based on student data.  They are auto graded and provide quick feedback to the student and teacher.  The quizzes will test essential knowledge to pass the AP exam.  In addition, each unit includes a practice AP multiple-choice exam to assess students understand of the concepts in the unit and it provides immediate feedback.  Quizzes are good for quick feedback on student understanding are not necessarily limited to low level knowledge.  Students also have the following assessments: practice performance tasks, projects, AP Exam Review.
+Assessment - Students will have formative quizzes after video tutorials that will provide the instructor with feedback to adjust instruction based on student data.  They are auto graded and provide quick feedback to the student and teacher.  The quizzes will test essential knowledge to pass the AP exam.  In addition, each unit includes a practice AP multiple-choice exam to assess the students’ understand of the concepts in the unit and it provides immediate feedback.  Quizzes are good for quick feedback on student understanding are not necessarily limited to low level knowledge.  Students also have the following assessments: practice performance tasks, projects, AP Exam Review.
 Most assessments are submitted online through CodeHS.  There are assessments that are auto graded and assessments that are graded by instructor with feedback.  Scores are kept in the gradebook and imported into Aeries. 
 
 The AP Create Performance Task – Students will gain the skills necessary to complete this portion of the AP Exam in class.  Students will complete practice performance tasks in each unit throughout the course and create their own digital artifacts.
 
 Programming Environment
-Python IDE - Students will write, run & debug code in the browser using the CodeHS editor.  The programming language used in this course is Python.  Students may have some familiarity with Python in the future because the district is implementing a Python-based robotics program in the elementary schools.  Programming will be taught early in the course so that students will be able to explore much of the course through computational thinking practices.
+Python 3 IDE - Students will write, run & debug code in the browser using the CodeHS editor.  The programming language used in this course is Python 3.  Students may have some familiarity with Python in the future because the district is implementing a Python-based robotics program in the elementary schools.  Programming will be taught early in the course so that students will be able to explore much of the course through computational thinking practices.  Python is ideal for beginners because code is based on ordinary English words, thus it is easier to learn and code.  
+
 
 ### Impacts
 
@@ -198,39 +201,41 @@ All students will engage in curriculum that is engaging, accessible, and relevan
 Maximizing Students’ Strengths and Reducing Instructional Barriers
 •	The course is self-paced which addresses the important concept that learner variability is the norm, not the exception.  Students who really excel can proceed at their own pace and study ahead even into any of the future courses.
 •	Since the students can move at their own pace and teachers are able to track their progress, the teacher can address students individually at their current level.
-•	Students with special needs will find on-demand videos and note-templates will scaffold instruction and provide flexibility to review lessons at any time.
+•	Students with special needs will find instructional videos and note-templates scaffold the instruction and provide flexibility to review lessons at their own pace.
 •	Student projects have a “base” but allow for multiple entry points so that students can all be working on the same project but with different participation and complexity.
 
 Scaffolding Programming Instruction
-•	Course lessons are scaffolded to include a balance of instructional support followed by independent or collaborative problem-solving.  Another method for scaffolding instruction is to provide or discuss worked examples help guide remove the cognitive prior to students writing a similar program.  Live coding is also a great tool to scaffold beginner programmers as they build the vocabulary and skills to write programs.
+•	Course lessons are scaffolded to include a balance of instructional support followed by independent or collaborative problem-solving.  Another method for scaffolding instruction is to provide or discuss worked examples to remove some of the cognitive load prior to students writing a similar program.  Live coding is also a great tool to scaffold lessons for beginner programmers as they build the vocabulary and skills to write programs.
 •	Students are provided choice in projects to engage all learners and increase student motivation.  
 
 Use Multiple Means of Representation and Engagement
-•	 
+•	Instruction  and computing activities will be balanced throughout the course.  During explicit instruction the teacher will address student misconceptions and other barriers that may arise in the upcoming activity.  The teacher tries to provide as little support as possible for students to be successful with the goal of phasing out this type of instruction.
+•	Teacher will use the following strategies during instruction: modeling, demonstrating, guided practice, and/or unplugged activities.
+•	Video tutorials are another method that will be used so that students can watch and re-watch a video for guidance.  Novice programmers often need to refer to the steps and processes several times.  Video tutorials are also provided on important software-related issues that are common in computer science classes.  For example, logging into CodeHS, uploading assignments, locating the IDE Sandbox or Docs.
+•	Academic language will be supported for all students (including English Learners) so that students will be able to access the curriculum without being limited by the technical vocabulary and coding syntax.  
+•	The teacher will provide academic language support by providing background information of the content and relating it to other subjects in which programming can be used.  
+•	In addition, the teacher will support students in building technical programming language by linking abstract ideas to concrete everyday contexts and language that the student is already familiar with.  This method is based on Legitimation Code Theory.
 
 Building Student Resiliency
 •	Explicitly teaching debugging strategies to reduce student frustration will help students be more productive when they encounter problems with their code.
 •	Students can become easily frustrated and lose motivation using the novice approach of “guess and check.”  Therefore, having students practice debugging strategies will increase self-monitoring, self-assessment, and build independence.
 
+
 Individualized Educational Plans
 •	Although the UDL is effective for all students, it does not remove the need to still provide student specific accommodations and modifications per their IEP.
 
-
-
-Collaborative Approach, students take the lead at times and teachers often learn from students, there is an energy in the classroom that we are all working together and solving the problems together
-Peer Programming
-Hands-On approach
-Computer science itself is addictive, debugging your errors, and showcasing your final product.  You never forget the sense of accomplishment when you have completed your first running program.  
-
 Social Challenges
-There may be low interest in the course.
-The instructor may feel isolated working without any collaboration.
+Although the teacher will have completed the authorization to teach computer science in K-12, the novice teacher who will be teaching outside their content area.  Being the only computer science teacher on campus can feel isolating and the teacher may have insufficient planning time.  The novice teacher will need support during their first years of teaching computer science to increase content and pedagogical knowledge, self-efficiency, and beliefs about what it means to be successful in a computing classroom.
+
+In addition, there may be low interest in the course.  The course is being offered in isolation of any feeder classes.  The teacher is in part recruiting students from their math classes.  If enrollment in the course is low, it may not be offered.
+
+Lastly, because the site will have one computer science teacher the course is dependent on retaining the teacher.  If the teacher is no longer under contract the course will no longer be offered.
 
 
 Legal Challenges
 Gladstone High School will only be open for two more years, which means that if the course is implemented next year there will only be one additional year for the course offering.
 
-Azusa Unified does not have a Computer Science pathway.  There are no other Computer Science courses in the district.  To support develop a CS program, the district should aim for experiences and achievement in elementary and middle schools so that CS - Principles would be full of students who have already created and debugged a program.  However, this would be years out in the future if our district decides to put resources in that direction.  A short-term goal would be to implement a 9th grade Exploring Computer Science course into the pathway. 
+Azusa Unified does not have a Computer Science pathway.  There are no other Computer Science courses in the district.  To develop a CS program the district should aim for experiences and achievement in elementary and middle schools so that AP CS - Principles would be full of students who have already created and debugged a program.  However, this would take time, money, and priority in the district.  A short-term goal would be to implement a 9th grade Exploring Computer Science course into the pathway. 
 
 Declining enrollment in the district has made scheduling AP courses difficult to fit in the master schedule.  Although Gladstone High School has committed to implementing the course in 2022-2023, as the district’s two high schools are merged there is no guarantee that the AP CS – Principles course will continue to be offered.
 
@@ -240,13 +245,14 @@ Although programming is engaging for a large range of students, including studen
 Gladstone High School is part of the East San Gabriel Valley SELPA (Special Education Local Plan Area).  Our district provides services for students with visual impairments.  Students with visual or print-based learning may still participate with text readers, however most programming languages have limited or no accessibility for text readers.  
 
 Evolving Course Contexts
-The rapidly growing push for Computer Science Education in K-12 education is relatively new.  The AP CS Principles course is the newest of the of the AP classes for students interested in computer science.  It was introduced in 2016 and was the largest course launch in AP Program history.  It is currently the fastest- growing AP class.  Because AP Computer Science takes a more creative, hands-on approach it appeals to a more diverse set of students.
-In 2019 the College Board announced changes to modify several aspects of the course.  In 2020 the CS Principles course had revisions to it’s conceptual framework and assessments.  It is likely that more revisions will evolve as the College Board incorporated feedback from K-12 and higher ed on ways to improve and update the course.  In addition, the field of computer science itself is rapidly changing which could also lead to changes in the curriculum and assessment. 
+The rapidly growing push for computer science education in K-12 education is relatively new.  The AP CS -Principles course is the newest of the of the AP classes for students interested in computer science.  It was introduced in 2016 and was the largest course launch in AP Program history.  It is currently the fastest growing AP class.  Because AP Computer Science takes a more creative, hands-on approach it appeals to a more diverse set of students.
+
+In 2019 the College Board announced changes to modify several aspects of the course and assessment.  In 2020 rolled out an updated CS Principles course with revisions to its conceptual framework and assessments.  It is likely that more revisions will evolve as the College Board incorporates feedback from K-12 and higher ed.  In addition, the field of computer science itself is rapidly changing which could lead to changes in the curriculum and assessment. 
 
 Contingency Plans
-Distance Learning
+If Gladstone High School transitions distance learning, the class would revert to Tynker’s remote learning curriculum for the AP CS-Principles course.  Tynker’s College Board curriculum was created during the COVID-19 pandemic.  Tynker led an initiative to create a well-designed online learning platform for remote learning.  97% of teachers said Tynker met/exceed expectations as a hybrid learning platform.  Tynker offered free licenses during the COVID-19 pandemic.  The teacher is assuming Tynker would do the same.  If Tynker did not provide free licenses, the teacher would ask the district to fund licenses for the students to access the remote curriculum.
 
-Connectivity
+
 
 ### Sources
 
