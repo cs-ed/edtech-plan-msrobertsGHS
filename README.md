@@ -99,13 +99,13 @@ The teacher was recently provided a Dell Latitude 5510 with the following specs:
 - Display: 15.5’’ Full HD, WLED, no touch option 
 
 **Peripherals**    
-- Have   
+- Have
   - HP LaserJet Pro M201dw Laser Printer 
   - ELMO Document Camera TT-12W Interactive Document Camera 3.4MP 12x Optical Zoom 1080 HDMI
   - Epson PowerLite LCD Projector X49, 4:3 – 1024x768
   - Dell Docking Station - WD19S 180W  
 
-- Need    
+- Need
   - Dell Wireless Mouse WM126 – 28 units
   - JLab Audio Studio Pro Over Ear Wired Headphones – 28 units
   - Dell Premier Multi-Device Wireless Keyboard and Mouse – KM7321W – 1 unit
@@ -116,11 +116,11 @@ The teacher was recently provided a Dell Latitude 5510 with the following specs:
   - Epson PowerLite 1288 Office Projector – Projector – 1 unit   
 
 **Furniture**  
-- Have    
+- Have
   - 28 student desks
   - 28 student chairs
 
-- Need  
+- Need
   - FlexiSpot Vici EC9 - Sit/standing desk - rectangular – black (for instructor set-up) – 1 unit  
 
 **Constraints**  
