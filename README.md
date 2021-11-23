@@ -49,24 +49,24 @@ Although there is an Apple computer lab on campus that was purchased to support 
 All software requires a secure and reliable internet connection.
 The official language for the course is *Python*.
 
-**CodeHS.com (Teacher and Students)**
-
-CodeHS is recognized by the College Board and is an endorsed provider of curriculum and professional development for AP CS - Principles.  This will afford GHS access to the pre-approved syllabus and high quality professional development.  Code HS will serve as main platform for the course.  I would request my district purchase the CodeHS Pro upgrade to provide all the tools, resources and support needed to run a high-quality computer science program.  The AP Computer Science 
-
-Principles course includes:
-1. Lesson Plans
-2. Videos & Slides
-3. Exercises
-4. Examples
-5. Projects
-6. Formative Assessments
-7. Comprehensive Assessments
-8. Gradebook
-11. Progress Monitoring
-12. Cheat Detection Tools
-
-In addition, students will access the online *Python* IDE to write, run & debug code in a web-based IDE on CodeHS.  
-
+> #### **CodeHS.com (Teacher and Students)**
+>
+> CodeHS is recognized by the College Board and is an endorsed provider of curriculum and professional development for AP CS - Principles.  This will afford GHS >access to the pre-approved syllabus and high quality professional development.  Code HS will serve as main platform for the course.  I would request my district >purchase the CodeHS Pro upgrade to provide all the tools, resources and support needed to run a high-quality computer science program.  The AP Computer Science 
+>course includes: 
+>
+>1. Lesson Plans
+>2. Videos & Slides
+>3. Exercises
+>4. Examples
+>5. Projects
+>6. Formative Assessments
+>7. Comprehensive Assessments
+>8. Gradebook
+>11. Progress Monitoring
+>12. Cheat Detection Tools
+>
+>In addition, students will access the online *Python* IDE to write, run & debug code in a web-based IDE on CodeHS.  
+>
 **Google Workspace for Education Fundamentals with Teaching and Learning Upgrade
 (Teacher and Students)**
 
