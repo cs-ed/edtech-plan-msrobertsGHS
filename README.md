@@ -168,6 +168,7 @@ Most assessments are submitted online through CodeHS.  There are assessments tha
 
 **The AP Create Performance Task** – Students will gain the skills necessary to complete this portion of the AP Exam in class.  Students will complete practice performance tasks in each unit throughout the course and create their own digital artifacts.  
 
+
 **Programming Environment**  
 
 **Python 3 IDE** - Students will write, run & debug code in the browser using the CodeHS editor.  The programming language used in this course is Python 3.  Students may have some familiarity with Python in the future because the district is implementing a Python-based robotics program in the elementary schools.  Programming will be taught early in the course so that students will be able to explore much of the course through computational thinking practices.  Python is ideal for beginners because code is based on ordinary English words, thus it is easier to learn and code.  
