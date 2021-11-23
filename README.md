@@ -133,6 +133,7 @@ Teachers and students are connected to Wi-Fi access points throughout the school
 ### Application
 
 **Curriculum**  
+
 The new course, AP Computer Science Principles, at Gladstone High School will use the CodeHS curriculum for the following reasons:  
 
 1. It is a College Board endorsed provider of AP Computer Science Principles curriculum and thus meets the course audit requirements.
@@ -144,11 +145,13 @@ The new course, AP Computer Science Principles, at Gladstone High School will us
 7. CodeHS pathways are aligned to or support the Next Generation Science Standards & Common Core Mathematics Standards.  If the district implements a 6-12 computer science pathway, they could use CodeHS pathways as a guide for successful implementation.  
 
 **Overview**
+
 At Gladstone High School, AP Computer Science Principles uses an integrated learning approach like the math department.  Students will build their knowledge and understanding through actively participating in a variety of activities and exercises.  The five big ideas of the course are integrated throughout the year with each big idea solidifying as the year progresses.  In addition, the six computation thinking practices are embedded throughout the lessons and coursework.  Assessments will build on and spiral content.  
 
 Students will engage in curriculum that is focused on creative problem-solving and real-world applications.  In addition, students will be able to explore topics of personal interest, community problems, and current events.  Student-initiated explorations are more valuable, enjoyable, and robust.   
 
 **Learning Environment**  
+
 **Videos & Slides** – Students learn new content through short video tutorials and are provided with guided note-templates.  Tutorials cover programming topics and concepts in the upcoming lesson.  The blended classroom approach of web-based and physical activities allows for students to engage in in-person collaborative exercises with peers.  By doing so the teacher will be able to leverage time in the classroom and give more focused 1-on-1 attention to students.  Exploration and discovery learning can serve a purpose but as students are learning to program researchers have noted that it’s important to provide guidance and focus the students’ thinking and exercises into productive directions.  By having students watch the short video, take a quiz, and then engage in the activities, students will be more successful.  
 Videos are streamed on CodeHS.  The teacher provides printed copies of the note-taking guides.  
 
@@ -166,10 +169,12 @@ Most assessments are submitted online through CodeHS.  There are assessments tha
 **The AP Create Performance Task** – Students will gain the skills necessary to complete this portion of the AP Exam in class.  Students will complete practice performance tasks in each unit throughout the course and create their own digital artifacts.  
 
 **Programming Environment**  
+
 **Python 3 IDE** - Students will write, run & debug code in the browser using the CodeHS editor.  The programming language used in this course is Python 3.  Students may have some familiarity with Python in the future because the district is implementing a Python-based robotics program in the elementary schools.  Programming will be taught early in the course so that students will be able to explore much of the course through computational thinking practices.  Python is ideal for beginners because code is based on ordinary English words, thus it is easier to learn and code.  
 
 
 ### Impacts  
+
 All students will engage in curriculum that is engaging, accessible, and relevant.  To ensure that all students able to learn in the CS – Principles course, the course incorporates the Universal Design for Learning (UDL) framework designed by the Center for Applied Special Technology.    
 
 **Maximizing Students’ Strengths and Reducing Instructional Barriers**  
