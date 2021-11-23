@@ -105,23 +105,23 @@ The teacher was recently provided a Dell Latitude 5510 with the following specs:
   - Epson PowerLite LCD Projector X49, 4:3 – 1024x768
   - Dell Docking Station - WD19S 180W  
 
-*Need*  
-- Dell Wireless Mouse WM126 – 28 units
-- JLab Audio Studio Pro Over Ear Wired Headphones – 28 units
-- Dell Premier Multi-Device Wireless Keyboard and Mouse – KM7321W – 1 unit
-- Dell Docking Station Mounting Kit – MK15 – 1 unit
-- Dell Dual Monitor Stand – MDS19 – 1 unit
-- Dell 24-inch P2419H Flat Panel Monitor – 2 units
-- Dell Multi-Device Wireless Keyboard and Mouse Combo - KM7120W – 1 unit
-- Epson PowerLite 1288 Office Projector – Projector – 1 unit   
+- Need    
+  - Dell Wireless Mouse WM126 – 28 units
+  - JLab Audio Studio Pro Over Ear Wired Headphones – 28 units
+  - Dell Premier Multi-Device Wireless Keyboard and Mouse – KM7321W – 1 unit
+  - Dell Docking Station Mounting Kit – MK15 – 1 unit
+  - Dell Dual Monitor Stand – MDS19 – 1 unit
+  - Dell 24-inch P2419H Flat Panel Monitor – 2 units
+  - Dell Multi-Device Wireless Keyboard and Mouse Combo - KM7120W – 1 unit
+  - Epson PowerLite 1288 Office Projector – Projector – 1 unit   
 
 **Furniture**  
-*Have*  
-- 28 student desks
-- 28 student chairs
+- Have    
+  - 28 student desks
+  - 28 student chairs
 
-*Need*  
-- FlexiSpot Vici EC9 - Sit/standing desk - rectangular – black (for instructor set-up) – 1 unit  
+- Need  
+  - FlexiSpot Vici EC9 - Sit/standing desk - rectangular – black (for instructor set-up) – 1 unit  
 
 **Constraints**  
 - Slow, limited or sometimes no Wi-Fi on campus
