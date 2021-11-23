@@ -290,6 +290,8 @@ https://www.the74million.org/article/hands-on-ap-computer-science-principles-cou
 
 https://www.tynker.com/content/Tynker-Coronavirus-Impact-Report.pdf
 
+https://www.tynker.com/school/covid-19-educator-resources
+
 Yadav, Aman et al. “Expanding Computer Science Education in Schools: Understanding Teacher Experiences and Challenges.” Computer Science Education 26.4 (2016): 235–254. Web.
 
 Angeli, Charoula et al. "A K-6 Computational ThinkingCurriculum Framework: Implications for Teacher Knowledge." Educational Technology & Society, 19.3 (2016): 47
