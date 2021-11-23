@@ -90,54 +90,54 @@ The official language for the course is *Python*.
 ### Hardware Specifications
 
 The classroom is outfitted with a cart of 38 Dell 3100 2-in-1 Education Chromebooks with the following specs:
-•	Processor: Intel Celeron N4020 (Dual Core, up to 2.8GHz, 4MB Cache, 6W)
-•	Display: 11.6" HD, 16:9 Touch, Camera & Microphone
-•	Memory: 4GB 2400MHz 
-•	Hard Drive: 32GB eMMC Hard Drive
-•	Ports: 2 USB 3.1, 2 USB Type-C, 1 Micro SD Memory Card Reader, 1 Headphone/Microphone Combo Jack
-•	Battery: 42WHr Battery, up to 10 hours
-•	Wireless: Intel Dual Band Wireless AC 9560 (802.11ac) 2x2 + Bluetooth 5.0
+- Processor: Intel Celeron N4020 (Dual Core, up to 2.8GHz, 4MB Cache, 6W)
+- Display: 11.6" HD, 16:9 Touch, Camera & Microphone
+- Memory: 4GB 2400MHz 
+- Hard Drive: 32GB eMMC Hard Drive
+- Ports: 2 USB 3.1, 2 USB Type-C, 1 Micro SD Memory Card Reader, 1 Headphone/Microphone Combo Jack
+- Battery: 42WHr Battery, up to 10 hours
+- Wireless: Intel Dual Band Wireless AC 9560 (802.11ac) 2x2 + Bluetooth 5.0
 
 The teacher was recently provided a Dell Latitude 5510 with the following specs: 
-•	Processor: 10th Generation Intel Core i5-10210U (Dual Core, up to 4.2GHz, 6MB Cache, 15W)
-•	Integrated Graphics: Intel UHD Graphics (shared system memory), AMD Radeon RX640 (2GB)
-•	Operating System: Windows 10 Professional (62-bit)
-•	Memory: 32 GB
-•	Ports: Network RJ-45 port, 2 USB 3.2 Gen1 Type-A, 1 USB 3.2 Type-A with PowerShare port, 1 USB 3.2 Gen2 Type-C with DisplayPort Alt Mode/Thunderbolt 3, Headphone/Microphone Combo Jack, 1 HDMI 1.4b port, microSD card slot, 1 uSIM card slot
-•	Camera: RGB, HD Fixed Focus (1280 x 720)
-•	Ethernet: Intel Ethernet Connection I219V, transfer rate 10/100/1000 Mbps
-•	Wireless Module: Intel Wi-Fi AX201, up to 2.4 Gbps
-•	Battery: 51 Whr, 11.40 VDC, operating time varies depending on operating conditions, charging time 4 hours when computer is off
-•	Display: 15.5’’ Full HD, WLED, no touch option 
+- Processor: 10th Generation Intel Core i5-10210U (Dual Core, up to 4.2GHz, 6MB Cache, 15W)
+- Integrated Graphics: Intel UHD Graphics (shared system memory), AMD Radeon RX640 (2GB)
+- Operating System: Windows 10 Professional (62-bit)
+- Memory: 32 GB
+- Ports: Network RJ-45 port, 2 USB 3.2 Gen1 Type-A, 1 USB 3.2 Type-A with PowerShare port, 1 USB 3.2 Gen2 Type-C with DisplayPort Alt Mode/Thunderbolt 3, Headphone/Microphone Combo Jack, 1 HDMI 1.4b port, microSD card slot, 1 uSIM card slot
+- Camera: RGB, HD Fixed Focus (1280 x 720)
+- Ethernet: Intel Ethernet Connection I219V, transfer rate 10/100/1000 Mbps
+- Wireless Module: Intel Wi-Fi AX201, up to 2.4 Gbps
+- Battery: 51 Whr, 11.40 VDC, operating time varies depending on operating conditions, charging time 4 hours when computer is off
+- Display: 15.5’’ Full HD, WLED, no touch option 
 
 **Peripherals**
 *Have*
-•	HP LaserJet Pro M201dw Laser Printer 
-•	ELMO Document Camera TT-12W Interactive Document Camera 3.4MP 12x Optical Zoom 1080 HDMI
-•	Epson PowerLite LCD Projector X49, 4:3 – 1024x768
-•	Dell Docking Station - WD19S 180W
+- HP LaserJet Pro M201dw Laser Printer 
+- ELMO Document Camera TT-12W Interactive Document Camera 3.4MP 12x Optical Zoom 1080 HDMI
+- Epson PowerLite LCD Projector X49, 4:3 – 1024x768
+- Dell Docking Station - WD19S 180W
 
 *Need*
-•	Dell Wireless Mouse WM126 – 28 units
-•	JLab Audio Studio Pro Over Ear Wired Headphones – 28 units
-•	Dell Premier Multi-Device Wireless Keyboard and Mouse – KM7321W – 1 unit
-•	Dell Docking Station Mounting Kit – MK15 – 1 unit
-•	Dell Dual Monitor Stand – MDS19 – 1 unit
-•	Dell 24-inch P2419H Flat Panel Monitor – 2 units
-•	Dell Multi-Device Wireless Keyboard and Mouse Combo - KM7120W – 1 unit
-•	Epson PowerLite 1288 Office Projector – Projector – 1 unit 
+- Dell Wireless Mouse WM126 – 28 units
+- JLab Audio Studio Pro Over Ear Wired Headphones – 28 units
+- Dell Premier Multi-Device Wireless Keyboard and Mouse – KM7321W – 1 unit
+- Dell Docking Station Mounting Kit – MK15 – 1 unit
+- Dell Dual Monitor Stand – MDS19 – 1 unit
+- Dell 24-inch P2419H Flat Panel Monitor – 2 units
+- Dell Multi-Device Wireless Keyboard and Mouse Combo - KM7120W – 1 unit
+- Epson PowerLite 1288 Office Projector – Projector – 1 unit 
 
 **Furniture**
 *Have*
-•	28 student desks
-•	28 student chairs
+- 28 student desks
+- 28 student chairs
 
 *Need*
-•	FlexiSpot Vici EC9 - Sit/standing desk - rectangular – black (for instructor set-up) – 1 unit
+- FlexiSpot Vici EC9 - Sit/standing desk - rectangular – black (for instructor set-up) – 1 unit
 
 **Constraints**
-•	Slow, limited or sometimes no Wi-Fi on campus
-•	Slow, limited or no Wi-Fi in student’s homes for assignments
+- Slow, limited or sometimes no Wi-Fi on campus
+- Slow, limited or no Wi-Fi in student’s homes for assignments
 
 Teachers and students are connected to Wi-Fi access points throughout the school site through secure teacher and student networks.  We do have a mobile network; however, teachers and students are not given access.
 
@@ -147,13 +147,13 @@ Teachers and students are connected to Wi-Fi access points throughout the school
 **Curriculum**
 The new course, AP Computer Science Principles, at Gladstone High School will use the CodeHS curriculum for the following reasons:
 
-•	It is a College Board endorsed provider of AP Computer Science Principles curriculum and thus meets the course audit requirements.
-•	Implementing a new course with a complete curriculum with embedded professional development from CodeHS would be beneficial for the teacher and students.
-•	By choosing the AP Computer Science Principles in Python, the process of getting the course approved for next school year will be expedited.
-•	The instructor has experience working with CodeHS from the computer science course work while attaining the computer science credential authorization.  She found it engaging, user-friendly, and the online IDE allows for students to write, run, & debug code.
-•	The AP Computer Science Principles in Python course is 100% aligned to the 2020 standards (332 standards).
-•	CodeHS provides free Digital Textbooks for students as a supplementary resource for the teacher and students.
-•	CodeHS pathways are aligned to or support the Next Generation Science Standards & Common Core Mathematics Standards.  If the district implements a 6-12 computer science pathway, they could use CodeHS pathways as a guide for successful implementation.
+- It is a College Board endorsed provider of AP Computer Science Principles curriculum and thus meets the course audit requirements.
+- Implementing a new course with a complete curriculum with embedded professional development from CodeHS would be beneficial for the teacher and students.
+- By choosing the AP Computer Science Principles in Python, the process of getting the course approved for next school year will be expedited.
+- The instructor has experience working with CodeHS from the computer science course work while attaining the computer science credential authorization.  She found it engaging, user-friendly, and the online IDE allows for students to write, run, & debug code.
+- The AP Computer Science Principles in Python course is 100% aligned to the 2020 standards (332 standards).
+- CodeHS provides free Digital Textbooks for students as a supplementary resource for the teacher and students.
+- CodeHS pathways are aligned to or support the Next Generation Science Standards & Common Core Mathematics Standards.  If the district implements a 6-12 computer science pathway, they could use CodeHS pathways as a guide for successful implementation.
 
 
 **Overview**
@@ -187,30 +187,30 @@ Most assessments are submitted online through CodeHS.  There are assessments tha
 All students will engage in curriculum that is engaging, accessible, and relevant.  To ensure that all students able to learn in the CS – Principles course, the course incorporates the Universal Design for Learning (UDL) framework designed by the Center for Applied Special Technology.  
 
 **Maximizing Students’ Strengths and Reducing Instructional Barriers**
-•	The course is self-paced which addresses the important concept that learner variability is the norm, not the exception.  Students who really excel can proceed at their own pace and study ahead even into any of the future courses.
-•	Since the students can move at their own pace and teachers are able to track their progress, the teacher can address students individually at their current level.
-•	Students with special needs will find instructional videos and note-templates scaffold the instruction and provide flexibility to review lessons at their own pace.
-•	Student projects have a “base” but allow for multiple entry points so that students can all be working on the same project but with different participation and complexity.
+- The course is self-paced which addresses the important concept that learner variability is the norm, not the exception.  Students who really excel can proceed at their own pace and study ahead even into any of the future courses.
+- Since the students can move at their own pace and teachers are able to track their progress, the teacher can address students individually at their current level.
+- Students with special needs will find instructional videos and note-templates scaffold the instruction and provide flexibility to review lessons at their own pace.
+- Student projects have a “base” but allow for multiple entry points so that students can all be working on the same project but with different participation and complexity.
 
 **Scaffolding Programming Instruction**
-•	Course lessons are scaffolded to include a balance of instructional support followed by independent or collaborative problem-solving.  Another method for scaffolding instruction is to provide or discuss worked examples to remove some of the cognitive load prior to students writing a similar program.  Live coding is also a great tool to scaffold lessons for beginner programmers as they build the vocabulary and skills to write programs.
-•	Students are provided choice in projects to engage all learners and increase student motivation.  
+- Course lessons are scaffolded to include a balance of instructional support followed by independent or collaborative problem-solving.  Another method for scaffolding instruction is to provide or discuss worked examples to remove some of the cognitive load prior to students writing a similar program.  Live coding is also a great tool to scaffold lessons for beginner programmers as they build the vocabulary and skills to write programs.
+- Students are provided choice in projects to engage all learners and increase student motivation.  
 
 **Use Multiple Means of Representation and Engagement**
-•	Instruction  and computing activities will be balanced throughout the course.  During explicit instruction the teacher will address student misconceptions and other barriers that may arise in the upcoming activity.  The teacher tries to provide as little support as possible for students to be successful with the goal of phasing out this type of instruction.
-•	Teacher will use the following strategies during instruction: modeling, demonstrating, guided practice, and/or unplugged activities.
-•	Video tutorials are another method that will be used so that students can watch and re-watch a video for guidance.  Novice programmers often need to refer to the steps and processes several times.  Video tutorials are also provided on important software-related issues that are common in computer science classes.  For example, logging into CodeHS, uploading assignments, locating the IDE Sandbox or Docs.
-•	Academic language will be supported for all students (including English Learners) so that students will be able to access the curriculum without being limited by the technical vocabulary and coding syntax.  
-•	The teacher will provide academic language support by providing background information of the content and relating it to other subjects in which programming can be used.  
-•	In addition, the teacher will support students in building technical programming language by linking abstract ideas to concrete everyday contexts and language that the student is already familiar with.  This method is based on Legitimation Code Theory.
+- Instruction  and computing activities will be balanced throughout the course.  During explicit instruction the teacher will address student misconceptions and other barriers that may arise in the upcoming activity.  The teacher tries to provide as little support as possible for students to be successful with the goal of phasing out this type of instruction.
+- Teacher will use the following strategies during instruction: modeling, demonstrating, guided practice, and/or unplugged activities.
+- Video tutorials are another method that will be used so that students can watch and re-watch a video for guidance.  Novice programmers often need to refer to the steps and processes several times.  Video tutorials are also provided on important software-related issues that are common in computer science classes.  For example, logging into CodeHS, uploading assignments, locating the IDE Sandbox or Docs.
+- Academic language will be supported for all students (including English Learners) so that students will be able to access the curriculum without being limited by the technical vocabulary and coding syntax.  
+- The teacher will provide academic language support by providing background information of the content and relating it to other subjects in which programming can be used.  
+- In addition, the teacher will support students in building technical programming language by linking abstract ideas to concrete everyday contexts and language that the student is already familiar with.  This method is based on Legitimation Code Theory.
 
 **Building Student Resiliency**
-•	Explicitly teaching debugging strategies to reduce student frustration will help students be more productive when they encounter problems with their code.
-•	Students can become easily frustrated and lose motivation using the novice approach of “guess and check.”  Therefore, having students practice debugging strategies will increase self-monitoring, self-assessment, and build independence.
+- Explicitly teaching debugging strategies to reduce student frustration will help students be more productive when they encounter problems with their code.
+- Students can become easily frustrated and lose motivation using the novice approach of “guess and check.”  Therefore, having students practice debugging strategies will increase self-monitoring, self-assessment, and build independence.
 
 
 **Individualized Educational Plans**
-•	Although the UDL is effective for all students, it does not remove the need to still provide student specific accommodations and modifications per their IEP.
+- Although the UDL is effective for all students, it does not remove the need to still provide student specific accommodations and modifications per their IEP.
 
 **Social Challenges**
 Although the teacher will have completed the authorization to teach computer science in K-12, the novice teacher who will be teaching outside their content area.  Being the only computer science teacher on campus can feel isolating and the teacher may have insufficient planning time.  The novice teacher will need support during their first years of teaching computer science to increase content and pedagogical knowledge, self-efficiency, and beliefs about what it means to be successful in a computing classroom.
@@ -227,17 +227,17 @@ Azusa Unified does not have a Computer Science pathway.  There are no other Comp
 
 Declining enrollment in the district has made scheduling AP courses difficult to fit in the master schedule.  Although Gladstone High School has committed to implementing the course in 2022-2023, as the district’s two high schools are merged there is no guarantee that the AP CS – Principles course will continue to be offered.
 
-Ethical Challenges
+**Ethical Challenges**
 Although programming is engaging for a large range of students, including students with disabilities, there may be some challenges that we are not able to address during the first year of implementation.
 
 Gladstone High School is part of the East San Gabriel Valley SELPA (Special Education Local Plan Area).  Our district provides services for students with visual impairments.  Students with visual or print-based learning may still participate with text readers, however most programming languages have limited or no accessibility for text readers.  
 
-Evolving Course Contexts
+**Evolving Course Contexts**
 The rapidly growing push for computer science education in K-12 education is relatively new.  The AP CS -Principles course is the newest of the of the AP classes for students interested in computer science.  It was introduced in 2016 and was the largest course launch in AP Program history.  It is currently the fastest growing AP class.  Because AP Computer Science takes a more creative, hands-on approach it appeals to a more diverse set of students.
 
 In 2019 the College Board announced changes to modify several aspects of the course and assessment.  In 2020 rolled out an updated CS Principles course with revisions to its conceptual framework and assessments.  It is likely that more revisions will evolve as the College Board incorporates feedback from K-12 and higher ed.  In addition, the field of computer science itself is rapidly changing which could lead to changes in the curriculum and assessment. 
 
-Contingency Plans
+**Contingency Plans**
 If Gladstone High School transitions distance learning, the class would revert to Tynker’s remote learning curriculum for the AP CS-Principles course.  Tynker’s College Board curriculum was created during the COVID-19 pandemic.  Tynker led an initiative to create a well-designed online learning platform for remote learning.  97% of teachers said Tynker met/exceed expectations as a hybrid learning platform.  Tynker offered free licenses during the COVID-19 pandemic.  The teacher is assuming Tynker would do the same.  If Tynker did not provide free licenses, the teacher would ask the district to fund licenses for the students to access the remote curriculum.
 
 
