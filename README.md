@@ -100,10 +100,10 @@ The teacher was recently provided a Dell Latitude 5510 with the following specs:
 
 **Peripherals**    
 - Have   
- - HP LaserJet Pro M201dw Laser Printer 
- - ELMO Document Camera TT-12W Interactive Document Camera 3.4MP 12x Optical Zoom 1080 HDMI
- - Epson PowerLite LCD Projector X49, 4:3 – 1024x768
- - Dell Docking Station - WD19S 180W  
+  - HP LaserJet Pro M201dw Laser Printer 
+  - ELMO Document Camera TT-12W Interactive Document Camera 3.4MP 12x Optical Zoom 1080 HDMI
+  - Epson PowerLite LCD Projector X49, 4:3 – 1024x768
+  - Dell Docking Station - WD19S 180W  
 
 *Need*  
 - Dell Wireless Mouse WM126 – 28 units
