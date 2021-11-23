@@ -275,7 +275,7 @@ https://www.tynker.com/content/Tynker-Coronavirus-Impact-Report.pdf
 
 https://www.tynker.com/school/covid-19-educator-resources
 
-Angeli, Charoula et al. "A K-6 Computational ThinkingCurriculum Framework: Implications for Teacher Knowledge." Educational Technology & Society, 19.3 (2016): 47
+Angeli, Charoula et al. "A K-6 Computational Thinking Curriculum Framework: Implications for Teacher Knowledge." Educational Technology & Society, 19.3 (2016): 47
 –57. Web.
 
 Computer Science in K-12: An A-to-Z Handbook on Teaching Programming. Edfinity, 2020. 
