@@ -50,8 +50,10 @@ All software requires a secure and reliable internet connection.
 The official language for the course is *Python*.
 
 **CodeHS.com (Teacher and Students)**
-CodeHS is recognized by the College Board and is an endorsed provider of curriculum and professional development for AP CS - Principles.  This will afford GHS access to the pre-approved syllabus and high quality professional development.  Code HS will serve as main platform for the course.  I would request my district purchase the CodeHS Pro upgrade to provide all the tools, resources and support needed to run a high-quality computer science program.  The AP Computer Science Principles course includes:
 
+CodeHS is recognized by the College Board and is an endorsed provider of curriculum and professional development for AP CS - Principles.  This will afford GHS access to the pre-approved syllabus and high quality professional development.  Code HS will serve as main platform for the course.  I would request my district purchase the CodeHS Pro upgrade to provide all the tools, resources and support needed to run a high-quality computer science program.  The AP Computer Science 
+
+Principles course includes:
 1. Lesson Plans
 2. Videos & Slides
 3. Exercises
