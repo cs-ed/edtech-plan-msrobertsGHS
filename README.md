@@ -288,6 +288,8 @@ https://www.usnews.com/education/blogs/college-admissions-playbook/articles/2018
 
 https://www.the74million.org/article/hands-on-ap-computer-science-principles-course-has-broad-appeal-for-diverse-groups-of-students-and-is-changing-how-they-see-themselves/
 
+https://www.tynker.com/content/Tynker-Coronavirus-Impact-Report.pdf
+
 Yadav, Aman et al. “Expanding Computer Science Education in Schools: Understanding Teacher Experiences and Challenges.” Computer Science Education 26.4 (2016): 235–254. Web.
 
 Angeli, Charoula et al. "A K-6 Computational ThinkingCurriculum Framework: Implications for Teacher Knowledge." Educational Technology & Society, 19.3 (2016): 47
