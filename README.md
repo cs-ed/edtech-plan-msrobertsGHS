@@ -116,7 +116,7 @@ The teacher was recently provided a Dell Latitude 5510 with the following specs:
 - Epson PowerLite 1288 Office Projector – Projector – 1 unit   
 
 **Furniture**  
-*Have*  
+*-Have*  
 - 28 student desks
 - 28 student chairs
 
