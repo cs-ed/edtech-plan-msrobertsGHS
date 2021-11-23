@@ -288,3 +288,5 @@ https://nurtem.com/why-python-is-better-than-other-languages/
 https://www.usnews.com/education/blogs/college-admissions-playbook/articles/2018-03-12/choose-between-ap-computer-science-a-ap-computer-science-principles
 
 https://www.the74million.org/article/hands-on-ap-computer-science-principles-course-has-broad-appeal-for-diverse-groups-of-students-and-is-changing-how-they-see-themselves/
+
+Yadav, Aman et al. “Expanding Computer Science Education in Schools: Understanding Teacher Experiences and Challenges.” Computer Science Education 26.4 (2016): 235–254. Web.
