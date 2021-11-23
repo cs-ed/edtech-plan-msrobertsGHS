@@ -135,13 +135,13 @@ Teachers and students are connected to Wi-Fi access points throughout the school
 **Curriculum**  
 The new course, AP Computer Science Principles, at Gladstone High School will use the CodeHS curriculum for the following reasons:  
 
-- It is a College Board endorsed provider of AP Computer Science Principles curriculum and thus meets the course audit requirements.
-- Implementing a new course with a complete curriculum with embedded professional development from CodeHS would be beneficial for the teacher and students.
-- By choosing the AP Computer Science Principles in Python, the process of getting the course approved for next school year will be expedited.
-- The instructor has experience working with CodeHS from the computer science course work while attaining the computer science credential authorization.  She found it engaging, user-friendly, and the online IDE allows for students to write, run, & debug code.
-- The AP Computer Science Principles in Python course is 100% aligned to the 2020 standards (332 standards).
-- CodeHS provides free Digital Textbooks for students as a supplementary resource for the teacher and students.
-- CodeHS pathways are aligned to or support the Next Generation Science Standards & Common Core Mathematics Standards.  If the district implements a 6-12 computer science pathway, they could use CodeHS pathways as a guide for successful implementation.  
+1. It is a College Board endorsed provider of AP Computer Science Principles curriculum and thus meets the course audit requirements.
+2. Implementing a new course with a complete curriculum with embedded professional development from CodeHS would be beneficial for the teacher and students.
+3. By choosing the AP Computer Science Principles in Python, the process of getting the course approved for next school year will be expedited.
+4. The instructor has experience working with CodeHS from the computer science course work while attaining the computer science credential authorization.  She found it engaging, user-friendly, and the online IDE allows for students to write, run, & debug code.
+5. The AP Computer Science Principles in Python course is 100% aligned to the 2020 standards (332 standards).
+6. CodeHS provides free Digital Textbooks for students as a supplementary resource for the teacher and students.
+7. CodeHS pathways are aligned to or support the Next Generation Science Standards & Common Core Mathematics Standards.  If the district implements a 6-12 computer science pathway, they could use CodeHS pathways as a guide for successful implementation.  
 
 **Overview**
 At Gladstone High School, AP Computer Science Principles uses an integrated learning approach like the math department.  Students will build their knowledge and understanding through actively participating in a variety of activities and exercises.  The five big ideas of the course are integrated throughout the year with each big idea solidifying as the year progresses.  In addition, the six computation thinking practices are embedded throughout the lessons and coursework.  Assessments will build on and spiral content.  
