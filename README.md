@@ -17,7 +17,7 @@ This course meets the “G” of the A-G requirement for UC/CSU.
 
 ### Situation (From WASC and SARC reports)
 
-*Gladstone High School*
+**Gladstone High School**
 
 Gladstone High School is one of two comprehensive high schools in the Azusa Unified School District.  Located in the northwest corner of the city of Covina, GHS is part of the east San Gabriel Valley in Los Angeles County and is approximately twenty-five miles from downtown Los Angeles.  AUSD encompasses 9.7 square miles of Azusa and parts of Covina and unincorporated Los Angeles County, however, the majority (87%) of the students reside in Azusa.  
 
