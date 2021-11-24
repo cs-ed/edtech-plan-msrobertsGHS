@@ -26,7 +26,7 @@ The ethnic distribution of the students is 92.8% Hispanic, 2.8% White, 1.2% Afri
 Approximately 14.8% of students are English Learners, 83.3% socioeconomically disadvantaged 83.3%, 16.8% students with disabilities, 0.9% foster youth, and 5.9% are homeless.
 In March 2019 AUSD invested in providing all students Chromebooks to use for distance learning.  As students returned to the classroom, they were given the option to keep the Chromebook for upcoming school year.  Most students chose to keep the Chromebook.
 
-At the start of 2021 classrooms were outfitted with new laptops at the start of the year and wireless access points were installed in each classroom.  However, the district’s wi-fi does not provide consistent connection to sites.  The district recently hired a new director of technology to make improvements soon.
+At the start of 2021 classrooms were outfitted with new laptops and wireless access points.  However, the district’s wi-fi does not provide consistent connection to sites.  The district recently hired a new director of technology to make improvements.
 
 The district provides tech support for staff and students.  In addition, if a student’s Chromebook stops working, they can exchange it for a working Chromebook at the school site.  
 
